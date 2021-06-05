@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-26">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Omelette roulée aux légumes marinés</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-27">
+      <closed/>
+    </day>
+    <day date="2020-10-28">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Raclette garnie</name>
+          <note>Jambon cru et cuit, petits oignons, cornichons</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Gequellte Grompere</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-29">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Moules à la crème</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-30">
+      <closed/>
+    </day>
+    <day date="2020-10-31">
+      <closed/>
+    </day>
+    <day date="2020-11-01">
+      <closed/>
+    </day>
+    <day date="2020-11-02">
+      <closed/>
+    </day>
+    <day date="2020-11-03">
+      <closed/>
+    </day>
+    <day date="2020-11-04">
+      <closed/>
+    </day>
+    <day date="2020-11-05">
+      <closed/>
+    </day>
+    <day date="2020-11-06">
+      <closed/>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

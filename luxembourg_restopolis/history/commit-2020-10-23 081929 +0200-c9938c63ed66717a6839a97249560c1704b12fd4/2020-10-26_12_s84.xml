@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-19">
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Cheeseburger</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Petit pain flaguette ou pain spécial avec hamburger Boeuf et tranche d'Emmental, tomates, salade, ketchup.</note>
+        </meal>
+        <meal>
+          <name>Orecchiette salsiccia, ail, tomate</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-20">
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Dürüm farci à la dinde épicée, sauce pita</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-21">
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Focaccia Margherita</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Focaccia tomatée au salami du pays</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-22">
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Chicken Fingers &quot;maison&quot;</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Petit pain flaguette, blanc de poulet coupé en lamelles et panées, salade et tomate, sauce rémoulade</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-23">
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Piadina au jambon cuit du pays, mozzarella et origan</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-24">
+      <closed/>
+    </day>
+    <day date="2020-10-25">
+      <closed/>
+    </day>
+    <day date="2020-10-26">
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Fish fingers de poissons, sauce tartare</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Petit pain flaguette, salade et tomate</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-27">
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Graines de sésame et produits à base de graines de sésame</note>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, tomate, salade verte</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-28">
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Chick'n Box</name>
+          <note>Wings, Legs, Fingers</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-29">
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Flaguette au Gyros de dinde et Tzatziki</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Tzatziki = yaourt, ail, concombres râpées, menthe, coriandre, huile d'olive, jus de citron</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-30">
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Sandwich Grillwurscht</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-31">
+      <closed/>
+    </day>
+    <day date="2020-11-01">
+      <closed/>
+    </day>
+    <day date="2020-11-02">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Farfalle tricolore à la sicilienne</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Pizza au salami</name>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-03">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Aiguillettes de poulet panées, sauce chili douce</name>
+        </meal>
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-04">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Spaghetti sauce Carbonara</name>
+          <note>Lardons fumés, dés de jambon cuit, crême, parmesan râpé, poivre, sel</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Piadina au jambon cuit du pays, mozzarella et origan</name>
+        </meal>
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-05">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Trivelli au boeuf piquant, poireaux sautés</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Spicy Fishburger</name>
+          <note>Roquette, concombre, chili, gingembre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-06">
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Coquillettes à l'émincé de poulet et brunoise de légumes</name>
+        </meal>
+        <meal>
+          <name>Dürüm farci à la dinde épicée, sauce pita</name>
+        </meal>
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+    <day date="2020-11-09">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Wok au boeuf</name>
+          <note>Légumes chinois sautés, nouilles chinoises sautées</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Salade aux falafels - Döner</name>
+          <note>Boulettes de pois chiches, salade verte, chou blanc, oignon rouge, tomate, flocons chili, taboulé aux petits légumes, sauce yaourt aux herbes, 1/2 pain flaguette</note>
+        </meal>
+        <meal>
+          <name>Salade aux scampis</name>
+          <note>Mélange de salades, quinoa, avocat, pois chiche, tomate en dés, radis, oignon rouge, oeuf cuit dur, persil, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, vinaigrette au Parmesan</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Tagliata au boeuf mariné</name>
+          <note>Mélange de salades vertes, roquette, rumsteak mariné et tranché, copeaux de Parmesan, tomate cerise, huile d'olive, vinaigre balsamique</note>
+        </meal>
+        <meal>
+          <name>Sandwich Wiener Schnitzel, sauce rémoulade</name>
+          <note>garniture salade et tomate</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-10">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Cappelletti à la volaille, sauce crème</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Flaguette aux cevapcici, sauce aux poivrons rouges</name>
+          <note>Haché de boeuf, ail, oignons, paprika, persil</note>
+        </meal>
+        <meal>
+          <name>Salade aux falafels - Döner</name>
+          <note>Boulettes de pois chiches, salade verte, chou blanc, oignon rouge, tomate, flocons chili, taboulé aux petits légumes, sauce yaourt aux herbes, 1/2 pain flaguette</note>
+        </meal>
+        <meal>
+          <name>Salade aux scampis</name>
+          <note>Mélange de salades, quinoa, avocat, pois chiche, tomate en dés, radis, oignon rouge, oeuf cuit dur, persil, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, vinaigrette au Parmesan</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Tagliata au boeuf mariné</name>
+          <note>Mélange de salades vertes, roquette, rumsteak mariné et tranché, copeaux de Parmesan, tomate cerise, huile d'olive, vinaigre balsamique</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-11">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Chick'n Box, pain flaguette</name>
+          <note>Wings, Legs, Fingers</note>
+        </meal>
+        <meal>
+          <name>Salade aux falafels - Döner</name>
+          <note>Boulettes de pois chiches, salade verte, chou blanc, oignon rouge, tomate, flocons chili, taboulé aux petits légumes, sauce yaourt aux herbes, 1/2 pain flaguette</note>
+        </meal>
+        <meal>
+          <name>Salade aux scampis</name>
+          <note>Mélange de salades, quinoa, avocat, pois chiche, tomate en dés, radis, oignon rouge, oeuf cuit dur, persil, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, vinaigrette au Parmesan</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Tagliata au boeuf mariné</name>
+          <note>Mélange de salades vertes, roquette, rumsteak mariné et tranché, copeaux de Parmesan, tomate cerise, huile d'olive, vinaigre balsamique</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-12">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Escalope de poulet à l'américaine</name>
+          <note>Carottes aux oignons, tagliatelle au beurre</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, tomate, salade verte</note>
+        </meal>
+        <meal>
+          <name>Salade aux falafels - Döner</name>
+          <note>Boulettes de pois chiches, salade verte, chou blanc, oignon rouge, tomate, flocons chili, taboulé aux petits légumes, sauce yaourt aux herbes, 1/2 pain flaguette</note>
+        </meal>
+        <meal>
+          <name>Salade aux scampis</name>
+          <note>Mélange de salades, quinoa, avocat, pois chiche, tomate en dés, radis, oignon rouge, oeuf cuit dur, persil, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, vinaigrette au Parmesan</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Tagliata au boeuf mariné</name>
+          <note>Mélange de salades vertes, roquette, rumsteak mariné et tranché, copeaux de Parmesan, tomate cerise, huile d'olive, vinaigre balsamique</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-13">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Steak haché de veau, sauce crème champignons de Paris</name>
+          <note>Petits pois aux échalotes, fettuccine au beurre</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée,  sauce Tzatziki =  yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures =  choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Salade aux falafels - Döner</name>
+          <note>Boulettes de pois chiches, salade verte, chou blanc, oignon rouge, tomate, flocons chili, taboulé aux petits légumes, sauce yaourt aux herbes, 1/2 pain flaguette</note>
+        </meal>
+        <meal>
+          <name>Salade aux scampis</name>
+          <note>Mélange de salades, quinoa, avocat, pois chiche, tomate en dés, radis, oignon rouge, oeuf cuit dur, persil, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, vinaigrette au Parmesan</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Tagliata au boeuf mariné</name>
+          <note>Mélange de salades vertes, roquette, rumsteak mariné et tranché, copeaux de Parmesan, tomate cerise, huile d'olive, vinaigre balsamique</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-14">
+      <closed/>
+    </day>
+    <day date="2020-11-15">
+      <closed/>
+    </day>
+    <day date="2020-11-16">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Hausmaacher Boulette mat Tomaten Zooss</name>
+          <note>Haricots vert à l'ail, pâtes</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise au poulet mariné</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade italienne au jambon cru</name>
+          <note>Mélange de salades, jambon cru, mozzarella, tomates cerise, pignons de pin, salade roquette, basilic frais</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+        <meal>
+          <name>Sandwich Chicken Teriyaki</name>
+          <note>petite escalope de poulet marinée avec de la sauce Teriyaki, rôtie et servie sur un sandwich garni avec de la salade, tomate et concombre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-17">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Emincé de dinde au curry</name>
+          <note>Chou romanesco persillade, riz basmati</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Cheeseburger</name>
+          <note>Petit pain flaguette ou pain spécial avec hamburger Boeuf et tranche d'Emmental, tomates, salade, ketchup.</note>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise au poulet mariné</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade italienne au jambon cru</name>
+          <note>Mélange de salades, jambon cru, mozzarella, tomates cerise, pignons de pin, salade roquette, basilic frais</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-18">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili, pommes de terre wedges maison</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Loempia maison, sauce chili douce</name>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise au poulet mariné</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade italienne au jambon cru</name>
+          <note>Mélange de salades, jambon cru, mozzarella, tomates cerise, pignons de pin, salade roquette, basilic frais</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-19">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Pasta asciutta</name>
+          <note>Haché de boeuf et porc, pancetta, oignons, ail, carotte, céleri, tomate pelée, concentré de tomates, laurier, persil, origan, huile d'olive, crudités</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Pain pita garni au cevapcici, crème épaisse à l'ail et au persil</name>
+          <note>Viande boeuf</note>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise au poulet mariné</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade italienne au jambon cru</name>
+          <note>Mélange de salades, jambon cru, mozzarella, tomates cerise, pignons de pin, salade roquette, basilic frais</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-20">
+      <category name="A emporter Menu à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Escalope de veau viennoise, quartier de citron</name>
+          <note>Ecrasé de potiron, pommes rôties</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:10 - 15:30)">
+        <meal>
+          <name>Fish fingers de poissons, sauce tartare</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise au poulet mariné</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade italienne au jambon cru</name>
+          <note>Mélange de salades, jambon cru, mozzarella, tomates cerise, pignons de pin, salade roquette, basilic frais</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-21">
+      <closed/>
+    </day>
+    <day date="2020-11-22">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-05">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Bacon Burger</name>
+          <note>Viande de boeuf, petit pain spécial « Hamburger » ou pain Flaguette 100g, lard grillé, laitue, rondelle de tomate, rondelle de cornichon</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Bacon Burger</name>
+          <note>Viande de boeuf, petit pain spécial « Hamburger » ou pain Flaguette 100g, lard grillé, laitue, rondelle de tomate, rondelle de cornichon</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-06">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Chick'n Box</name>
+          <note>Wings, Legs, Fingers</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Chick'n Box</name>
+          <note>Wings, Legs, Fingers</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-07">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Flaguette au kebab de veau et Tzatziki</name>
+          <note>Tzatziki = yaourt, ail, concombres râpées, menthe, coriandre, huile d'olive, jus de citron</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Flaguette au kebab de veau et Tzatziki</name>
+          <note>Tzatziki = yaourt, ail, concombres râpées, menthe, coriandre, huile d'olive, jus de citron</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-08">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Nuggets de poulet maison, sauce chili</name>
+          <note>Beignets de blanc de poulet</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Nuggets de poulet maison, sauce chili</name>
+          <note>Beignets de blanc de poulet</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-09">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Fish fingers de poissons, sauce rémoulade</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Fish fingers de poissons, sauce rémoulade</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-10">
+      <closed/>
+    </day>
+    <day date="2020-10-11">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-11-02">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Ierzebulli</name>
+          <note>Potage de pois cassés à la luxembourgeoise</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Emincé de poulet à la luxembourgeoise</name>
+          <note>Oignon, crème fraîche, vin blanc, persil</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Lasagne végétarienne</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Petits pois à la française</name>
+          <note>Laitue ciselée et oignons</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Pudding vanille, fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-03">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Velouté de brocolis et fromage double crème</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Couscous garni</name>
+          <note>1/2 saucisse merguez, aiguillette de poulet, boulette d'agneau</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Haart gekachten Eeër mat Gromperen a Choufleur, wäiss Zooss mat Bratzelen</name>
+          <note>Oeufs cuits durs, pommes nature, chou-fleur, sauce blanche à la ciboulette</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Julienne de légumes frais</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+        <meal>
+          <name>Légumes couscous et bouillon de légumes</name>
+          <note>Carottes, céleris en branches, navets, poireaux, oignons, pois chiches, courgettes</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Semoule aux épices</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Crêpe au sucre , lait chaud ou lait chocolaté chaud</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-04">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de carottes et gingembre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Gratin de poissons et fruits de mer, sauce bisque</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Galettes de haricots rouges et pommes de terre aux légumes</name>
+          <note>Poireau, champignon, échalote</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Epinards en branches au beurre noisette</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Grompere mat Péiterséilech</name>
+          <note>Pommes persillées</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Tomate cerise, billes de mozzarella, pesto, pain, fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-05">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Consommé de boeuf aux petits légumes</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Roulade de boeuf braisée au four</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tartiflette végétarienne</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Carottes, crème fraîche, oignon et persil</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Spätzele au beurre</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Gâteau au chocolat, compote de pommes maison</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-06">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe à l'oignon, toast au fromage</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Duo de médaillons de viande, jus corsé aux herbes</name>
+          <note>Veau et boeuf</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée au quorn et petits légumes</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Tomate provençale, fagot bardé d'haricots verts</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+    <day date="2020-11-09">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Velouté de petits pois</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Wok au boeuf</name>
+          <note>Shiitaké, bambou, pois mange tout, oignon nouveau, céleri branche, carotte</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Ragoût de légumes et tofu parfumé au gingembre</name>
+          <note>Carottes, céleris, courgettes, poireaux, oignons, sautés à l' huile d'olive et déglacés au fond de légumes parfumé au gingembre, rajouter le tofu en dernier en petits dés</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes chinois sautés</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Gâteau Pumpkin &amp; Spices, lait chaud ou lait chocolaté chaud</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-10">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Minestrone</name>
+          <note>Potage à base de tomates, céleri, chou, haricots blancs et pâtes</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Filet de cabillaud façon meunière, sauce aïoli</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Boulettes aux pois chiches et tombée de légumes épicée, sauce fromage blanc et fines herbes</name>
+          <note>Courgette, poireaux, carottes</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Brocolis au beurre et au persil</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Batônnets de carottes et concombres, fromage blanc aux herbes</name>
+          <note>pain, fruits coupés</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-11">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe de carottes, quenelle de crème fraîche</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Curry au duo de lentilles, mangue et coco</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Julienne de légumes frais</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pomme au four et sa crème aigre</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Apple pie, yaourt nature ou aux fruts</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-12">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage Andalou</name>
+          <note>Tomates, poivrons rouges, oignons rouges, ail, bouillon de légumes, blanc de poireaux, céleri branche</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Escalope de poulet à l'américaine, jus réduit corsé</name>
+          <note>Poêlée, badigeonnée de moutarde et saupoudrée de chapelure, grillée au four</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Mezzé variés</name>
+          <note>Pain pita Falafel, taboulé, houmous, baba ganousch</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Carottes aux oignons</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Muffin salé aux légumes, fruits coupés</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-13">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Bouillon de boeuf thaï</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Steak haché de veau, sauce crème champignons de Paris</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Petits pois aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Fettuccine au beurre</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-14">
+      <closed/>
+    </day>
+    <day date="2020-11-15">
+      <closed/>
+    </day>
+    <day date="2020-11-16">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage au potiron</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Hausmaacher Boulette mat Tomaten Zooss</name>
+          <note>Boulettes de viande maison, sauce tomate</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Duo de courgettes et tomate au ragoût de tofu, sauce tomate</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Haricots verts à l'ail</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Penne au beurre</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Pudding vanille, fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-17">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de courgettes au parmesan</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Emincé de dinde au curry</name>
+          <note>Viande de dinde en lamelles avec une sauce curry</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Cannelloni à la ricotta et épinards &quot;fait maison&quot;, sauce crème</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Chou romanesco persillade</name>
+          <note>Persil, ail, l'huile d'olive.</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz basmati</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Boxemännchen, lait chaud ou lait chocolaté chaud</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-18">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe à l'oignon</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée,  sauce Tzatziki =  yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures =  choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Feuille de brick farcie aux jeunes légumes et pois chiches, concassé de tomates</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Poêlée de légumes aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Tomate cerise, billes de mozzarella, pesto, pain, fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-19">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Velouté de brocolis et fromage double crème</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Filet de saumon poché, sauce vin blanc</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Dahl aux légumes, pain naan</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Épinards en branches au beurre noisette</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre persillées</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Gâteau au chocolat, compote de pommes maison</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-20">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe chinoise au poulet</name>
+          <note>Blanc de poulet, germe de soja, champignons, vermicelle, oignons, petit pois, carottes, céleri, blanc de poireau, curry, sauce soja</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Escalope de veau à la viennoise, quartier de citron</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Veggie burger</name>
+          <note>Hamburger végétarien, petit pain, boulettes de lentilles, concombre, tomate, sauce Tzatziki</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Ecrasé de potiron</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre rôties</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-21">
+      <closed/>
+    </day>
+    <day date="2020-11-22">
+      <closed/>
+    </day>
+    <day date="2020-11-23">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage de tomates et basilic</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Brochette de poulet et bacon, jus corsé aux herbes</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Carottes aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre sablées</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Muffin aux myrtilles, yaourt nature ou aux fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-24">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Velouté de carottes au lait de coco</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Goulash à la hongroise</name>
+          <note>Tomate, poivron, oignon, ail, paprika</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Gratinéiert Kniddele mat Geméis</name>
+          <note>Quenelles de farine gratinées aux légumes et crème</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Choux de Bruxelles crème à l'ail</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Semoule au lait à la vanille, compote de pommes maison</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-25">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Fish fingers, quartier de citron, sauce rémoulade</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Riz cantonnais végétarien au quorn sauté à l'ail et au persil plat</name>
+          <note>Petits pois, pousse soja, carottes, poireaux, oignons, céleri branche, oeufs</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Dés de céleris sautés et persil plat</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Mini club sandwich jambon-fromage, fruits coupés</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-26">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de cresson</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Emincé de veau à la zurichoise</name>
+          <note>Veau sauté, champignons</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Accras de légumes au feta, sauce salsa maison</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Brocolis beurre aux oignons</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Spätzele sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Gaufre au sucre, fruits coupés</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-27">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe de légumes avec pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Petits pois aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+        <meal>
+          <name>Purée de pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-28">
+      <closed/>
+    </day>
+    <day date="2020-11-29">
+      <closed/>
+    </day>
+    <day date="2020-11-30">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Tom Kha Kai</name>
+          <note>Potage thaï au poulet: Poulet, galanga, lait de coco, piments verts, coriandre fraîche, citronnelle, sauce de poisson</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Roulade de boeuf braisée au four</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Hachis Parmentier aux légumes</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Carottes à la crème, persil et aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Tomate cerise, billes de mozzarella, pesto, pain, fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-01">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage aux légumes de saison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Gratin de poissons et fruits de mer, sauce bisque</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Filet de quorn braisé aux petits légumes, sauce champignons de Paris</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Epinards en branches au beurre noisette</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz à l'étuvé</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Petit pain au lait, pâte au chocolat à tartiner, fruits coupés</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-02">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de champignons, ail et persil</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Escalope de dinde viennoise, quartier de citron</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Risotto aux champignons, petits pois, tomates séchées et copeaux de parmesan</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Mini muffin salé aux légumes, compote de fruits</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-03">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Consommé de boeuf aux petits légumes</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Cheeseburger maison</name>
+          <note>Viande de boeuf, petit pain spécial « Hamburger » ou pain Flaguette 100g, fromage, laitue, rondelle de tomate, rondelle de cornichon</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Falafel - Döner, sauce fromage blanc aux herbes</name>
+          <note>Pain flaguette, boulettes de pois chiches, salade verte, chou blanc, oignons rouges, tomate, flocons chili</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Tomate grillée au four</name>
+          <note>Herbes de Provence</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes duchesse</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Collation après-midi (07:00 - 18:00)">
+        <meal>
+          <name>Riz au lait, fruits coupés</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-04">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Buschtawen Zopp</name>
+          <note>Bouillon aux pâtes en forme de lettres</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Paschtéit</name>
+          <note>Bouchée à la Reine</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Paschtéit  mat Quorn a frëschem Geméis</name>
+          <note>Bouchée au quorn et légumes frais</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Petits pois aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+        <meal>
+          <name>Räis</name>
+          <note>Riz</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-05">
+      <closed/>
+    </day>
+    <day date="2020-12-06">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

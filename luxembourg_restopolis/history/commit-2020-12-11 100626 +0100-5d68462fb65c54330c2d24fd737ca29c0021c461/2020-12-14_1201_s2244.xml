@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-12-07">
+      <closed/>
+    </day>
+    <day date="2020-12-08">
+      <closed/>
+    </day>
+    <day date="2020-12-09">
+      <closed/>
+    </day>
+    <day date="2020-12-10">
+      <closed/>
+    </day>
+    <day date="2020-12-11">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>½ levain thon-mayonnaise</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Emincé de boeuf, jus réduit</name>
+          <note>Tomate provençale, fagot bardé d'haricots verts, pommes dauphines</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon, petit pain</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Ciabatta houmous / crudités</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Mille-feuille au quorn et champignons des bois</name>
+          <note>Pleurotes, champignons brun, champignons de Paris</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Tomate provençale, fagot bardé d'haricots verts</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes dauphines</name>
+          <note>Boulettes frites à base d'un mélange de purée de pommes de terre et de pâte à choux</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>1/4 Lait chocolaté 3,5% (Schoulmëllechprogramm)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Bûche de Noël &quot;fait maison&quot;</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fruits frais</name>
+          <note>Mandarine</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt aux fruits</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Options gratuites">
+        <meal>
+          <name>1/4 lait frais 3,5 % (Schoulmëllechprogramm)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Schouluebstprogramm</name>
+          <note>Si disponible</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Set de couverts</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-12">
+      <closed/>
+    </day>
+    <day date="2020-12-13">
+      <closed/>
+    </day>
+    <day date="2020-12-14">
+      <closed/>
+    </day>
+    <day date="2020-12-15">
+      <closed/>
+    </day>
+    <day date="2020-12-16">
+      <closed/>
+    </day>
+    <day date="2020-12-17">
+      <closed/>
+    </day>
+    <day date="2020-12-18">
+      <closed/>
+    </day>
+    <day date="2020-12-19">
+      <closed/>
+    </day>
+    <day date="2020-12-20">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

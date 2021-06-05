@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-14">
+      <closed/>
+    </day>
+    <day date="2020-09-15">
+      <closed/>
+    </day>
+    <day date="2020-09-16">
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Barbecue</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-17">
+      <closed/>
+    </day>
+    <day date="2020-09-18">
+      <closed/>
+    </day>
+    <day date="2020-09-19">
+      <closed/>
+    </day>
+    <day date="2020-09-20">
+      <closed/>
+    </day>
+    <day date="2020-09-21">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Aiguillettes de poulet panées aux flocons d'avoine, salsa verde maison</name>
+          <note>Salsa verde = tomate verte, ail, oignons, citron vert, coriandre, jalapenò</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Focaccia barese</name>
+          <note>Olives vertes, tomates cerises et huile d’olive</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Kéistaart</name>
+          <note>Tarte au fromage blanc</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-22">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bouillon de poule &quot;Stracciatella&quot;</name>
+          <note>Mélange d’oeufs et de parmesan, vermicelles, persil haché</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Focaccia caprese</name>
+          <note>Tomates fraîches en dés, basilic frais, mozzarella, origan et huile d’olive</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Cœur de palmier feuilleté au sucre roux, mousse framboises</name>
+          <note>à part: crème anglaise à la fleur d'oranger</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-23">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Chowder de maïs</name>
+          <note>Oignons, ail, graine de cumin, bouillon de légumes, pommes de terre, mais frais, persil, fromage râpé, crème ciboulette,</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>½ Coquelet à la moutarde</name>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Eëertärtchen</name>
+          <note>Tartelette au flan</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-24">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Salade à la grecque</name>
+          <note>Salade verte, Poivron 3 sortes, concombre, olives noires, tomates, fêta,...</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Calamars à la provençale</name>
+          <note>Sauce tomate et ratatouille</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Couque aux amandes et pommes</name>
+          <note>Tarte sucrée composée d'une pâte à brioche très moelleuse, garnie d'une crème dessert aux amandes et surmontée de pommes caramélisées</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-25">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Baguette Mozzarella</name>
+          <note>Tranche de baguette, frottée à l' ail, gratiné mozzarella</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Bucatini Mamma Gina</name>
+          <note>Viande de boeuf , salsiccia, viande de veau, céleri branche, oignon, carotte, laurier, ail, persil plat, concentré de tomate, tomates pelées, non concassées ni passées, huile d'olive</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>All American Apple Pie</name>
+          <note>Tarte aux pommes couverte, façon Américaine</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-26">
+      <closed/>
+    </day>
+    <day date="2020-09-27">
+      <closed/>
+    </day>
+    <day date="2020-09-28">
+      <closed/>
+    </day>
+    <day date="2020-09-29">
+      <closed/>
+    </day>
+    <day date="2020-09-30">
+      <closed/>
+    </day>
+    <day date="2020-10-01">
+      <closed/>
+    </day>
+    <day date="2020-10-02">
+      <closed/>
+    </day>
+    <day date="2020-10-03">
+      <closed/>
+    </day>
+    <day date="2020-10-04">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

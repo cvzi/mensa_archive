@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-12-28">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Ierzebulli mat Speck</name>
+          <note>Potage de pois cassés à la luxembourgeoise, lard fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Escalope de poulet, sauce au curry</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Lasagne végétarienne</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou-fleur à la crème, persil et oignons</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Fettuccine au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Pudding vanille, fruits</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>St. Nicolas en chocolat (gratuit)</name>
+          <note>Touche valable que pour St. Nicolas</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-29">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Velouté de brocolis et fromage double crème</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Choucroute garnie</name>
+          <note>1/2 Mettwurscht, 1/2 viennoise, 1/2 tranche de lard maigre, 1 tranche de collet de porc fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Gratin de chou-fleur aux oeufs durs à la luxembourgeoise</name>
+          <note>2 oeufs cuits dur, pommes vapeur, sauce béchamel, gratiné fromage Emmental</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Choucroute</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Épinards en branches à la crème d'ail</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre persillées</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Crêpe au sucre , lait chaud ou lait chocolaté chaud</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>St. Nicolas en chocolat (gratuit)</name>
+          <note>Touche valable que pour St. Nicolas</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-30">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de carottes et gingembre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Feuilleté aux poissons et fruits de mer, sauce bisque</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Galette de haricots rouges, concassé de tomates</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Flan aux poireaux</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Brochette de tomate-mozzarella au pesto, pain, fruits coupés</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>St. Nicolas en chocolat (gratuit)</name>
+          <note>Touche valable que pour St. Nicolas</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-31">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consommé de boeuf aux petits légumes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Boeuf Stroganoff</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tartiflette végétarienne</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Champignons sautés aux herbes et à l'ail</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Tagliatelle à l'huile d'olive</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Crumble aux pommes et raisins secs, fruits coupés</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>St. Nicolas en chocolat (gratuit)</name>
+          <note>Touche valable que pour St. Nicolas</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-01">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe à l'oignon, toast au fromage</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée au quorn et légumes frais</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Purée de pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>St. Nicolas en chocolat (gratuit)</name>
+          <note>Touche valable que pour St. Nicolas</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-02">
+      <closed/>
+    </day>
+    <day date="2021-01-03">
+      <closed/>
+    </day>
+    <day date="2021-01-04">
+      <closed/>
+    </day>
+    <day date="2021-01-05">
+      <closed/>
+    </day>
+    <day date="2021-01-06">
+      <closed/>
+    </day>
+    <day date="2021-01-07">
+      <closed/>
+    </day>
+    <day date="2021-01-08">
+      <closed/>
+    </day>
+    <day date="2021-01-09">
+      <closed/>
+    </day>
+    <day date="2021-01-10">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

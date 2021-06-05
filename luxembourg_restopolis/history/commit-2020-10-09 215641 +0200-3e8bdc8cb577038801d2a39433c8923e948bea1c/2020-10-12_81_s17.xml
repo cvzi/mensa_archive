@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-05">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+        <meal>
+          <name>Mixed grill de viandes, sauce marchand de vin</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Escalopine de poulet, 1/2 Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Alloo Palak</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Epinards, pommes de terre, tomates en dés, curry, oignons, piment, ail, cumin, curcuma, coriandre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Orecchiette salsiccia, ail, tomate</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+        <meal>
+          <name>Champignons sautés aux herbes et à l'ail</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre sablées</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Panna cotta aux fruits rouges</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-06">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+        <meal>
+          <name>Minestrone alla genovese</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Emincé de boeuf</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Gratinéiert Kniddele mat Geméis</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Quenelles de farine gratinées aux légumes et crème</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tagliatelle à la pancetta, tomates cerise et champignons frais</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Gequellte Grompere mat Stoffi a Kraïder</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Pommes de terre en robe des champs sauce fromage blanc aux herbes</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Eclair à la vanille</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-07">
+      <closed/>
+    </day>
+    <day date="2020-10-08">
+      <closed/>
+    </day>
+    <day date="2020-10-09">
+      <closed/>
+    </day>
+    <day date="2020-10-10">
+      <closed/>
+    </day>
+    <day date="2020-10-11">
+      <closed/>
+    </day>
+    <day date="2020-10-12">
+      <closed/>
+    </day>
+    <day date="2020-10-13">
+      <closed/>
+    </day>
+    <day date="2020-10-14">
+      <closed/>
+    </day>
+    <day date="2020-10-15">
+      <closed/>
+    </day>
+    <day date="2020-10-16">
+      <closed/>
+    </day>
+    <day date="2020-10-17">
+      <closed/>
+    </day>
+    <day date="2020-10-18">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

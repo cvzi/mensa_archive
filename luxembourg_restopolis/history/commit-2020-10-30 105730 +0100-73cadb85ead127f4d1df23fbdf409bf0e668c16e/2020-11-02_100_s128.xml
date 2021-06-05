@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-26">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Linguine à la Carbonara</name>
+          <note>Lardons fumés, dés de jambon cuit, crème, parmesan râpé, poivre, sel</note>
+        </meal>
+        <meal>
+          <name>Linguine alla crudaiola</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Bouneschlupp mat Mettwurscht</name>
+          <note>Potage d'haricots verts à la luxembourgeoise et saucisse fumée</note>
+        </meal>
+        <meal>
+          <name>Fish fingers de poissons, sauce tartare</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Pizza Capricciosa</name>
+          <note>Tomate, salami, artichauts, champignons poêlés, poivrons, mozzarella</note>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-27">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Penne aux légumes et son jus</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Penne sauce tomate et chorizo</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Graines de sésame et produits à base de graines de sésame</note>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, tomate, salade verte</note>
+        </meal>
+        <meal>
+          <name>Pizza au salami</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+        <meal>
+          <name>Potage Waterzooï de poissons</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-28">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Tortiglioni ai funghi</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Tortiglioni al forno</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Chick'n Box</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Wings, Legs, Fingers</note>
+        </meal>
+        <meal>
+          <name>Pizza aux scampis et pesto à la genovese</name>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+        <meal>
+          <name>Potage Wantan</name>
+          <note>Bouillon de poule, raviolis chinois farcis à la viande de porc - Wantan</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-29">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Tortellini  panna e prosciutto</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Tortellini ricotta et épinards, sauce napolitiane</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>American Pepperoni Pizza</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Salami piquant, cheddar, mozzarella et origan</note>
+        </meal>
+        <meal>
+          <name>Flaguette au Gyros de dinde et Tzatziki</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Tzatziki = yaourt, ail, concombres râpées, menthe, coriandre, huile d'olive, jus de citron</note>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+        <meal>
+          <name>Sopa de grao de bico</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-30">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Spaghetti aux légumes, ricotta, tomates et persil plat</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Spaghetti bolognaise</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Pizza AntiGaspi</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Garniture selon disponibilité</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+        <meal>
+          <name>Sandwich Grillwurscht</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Orge)</note>
+          <note>Seigle</note>
+        </meal>
+        <meal>
+          <name>Soupe tchèque aux saucisses et lard</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-31">
+      <closed/>
+    </day>
+    <day date="2020-11-01">
+      <closed/>
+    </day>
+    <day date="2020-11-02">
+      <closed/>
+    </day>
+    <day date="2020-11-03">
+      <closed/>
+    </day>
+    <day date="2020-11-04">
+      <closed/>
+    </day>
+    <day date="2020-11-05">
+      <closed/>
+    </day>
+    <day date="2020-11-06">
+      <closed/>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

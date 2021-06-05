@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-14">
+      <category name="Entrée">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Velouté de petits pois</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Rôti de boeuf façon tagliata</name>
+          <note>Mariné et et rôti au four, copeaux de parmesan, roquette, jus brun corsé</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Ragoût de légumes et tofu parfumé au gingembre</name>
+          <note>Carottes, céleris, courgettes, poireaux, oignons, sautés à l' huile d'olive et déglacés au fond de légumes parfumé au gingembre, rajouter le tofu en dernier en petits dés</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tomate grillée au four</name>
+          <note>Herbes de Provence</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre sablées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Panna cotta au coulis de fruits rouges</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-15">
+      <category name="Entrée">
+        <meal>
+          <name>Minestrone alla genovese</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Filet de cabillaud façon meunière, sauce aïoli</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Boulettes aux pois chiches et tombée de légumes épicée, sauce fromage blanc et fines herbes</name>
+          <note>Courgette, poireaux, carottes</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Brocolis au beurre et au persil</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Mille-feuille</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-16">
+      <category name="Entrée">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Soupe de carottes, quenelle de crème fraîche</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Spaghetti bolognaise</name>
+          <note>Haché de boeuf et de porc, épices, tomates, huile d'olive, ail, oignons, carottes</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Spaghetti au quorn façon bolognaise</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Mousse au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-17">
+      <category name="Entrée">
+        <meal>
+          <name>Potage Andalou</name>
+          <note>Tomates, poivrons rouges, oignons rouges, ail, bouillon de légumes, blanc de poireaux, céleri branche</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Cordon bleu de veau pané, sauce crème champignons de Paris</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Mezzé variés</name>
+          <note>Pain pita Falafel, taboulé, houmous, baba ganousch</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Carottes aux oignons</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Tiramisu classique</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-18">
+      <category name="Entrée">
+        <meal>
+          <name>Bouillon de boeuf thaï</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Paschtéit</name>
+          <note>Bouchée à la Reine</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Petits pois aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre rissolées</name>
+        </meal>
+        <meal>
+          <name>Riz à l'étuvé</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Tartelette aux quetsches, crème chantilly</name>
+          <note>Pâte levée</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-19">
+      <closed/>
+    </day>
+    <day date="2020-09-20">
+      <closed/>
+    </day>
+    <day date="2020-09-21">
+      <closed/>
+    </day>
+    <day date="2020-09-22">
+      <closed/>
+    </day>
+    <day date="2020-09-23">
+      <closed/>
+    </day>
+    <day date="2020-09-24">
+      <closed/>
+    </day>
+    <day date="2020-09-25">
+      <closed/>
+    </day>
+    <day date="2020-09-26">
+      <closed/>
+    </day>
+    <day date="2020-09-27">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

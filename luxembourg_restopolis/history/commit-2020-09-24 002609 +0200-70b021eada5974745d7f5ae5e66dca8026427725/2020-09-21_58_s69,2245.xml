@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-21">
+      <category name="Entrée (07:00 - 12:29)">
+        <meal>
+          <name>Beignets de calamars frits, sauce rémoulade et citron</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mollusques et produits à base de mollusques</note>
+        </meal>
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage de tomates et basilic</name>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 12:29)">
+        <meal>
+          <name>Cuisse de poulet rôtie, jus corsé aux herbes</name>
+          <note>bio</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (07:00 - 12:29)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 12:29)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 12:29)">
+        <meal>
+          <name>Pommes de terre écrasées</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 12:29)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Moelleux au chocolat</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Soja et produits à base de soja</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Fruits à coque et produits à base de ces fruits (Amandes)</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 12:29)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Entrée (12:30 - 14:00)">
+        <meal>
+          <name>Beignets de calamars frits, sauce rémoulade et citron</name>
+        </meal>
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage de tomates et basilic</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (12:30 - 14:00)">
+        <meal>
+          <name>Cuisse de poulet rôtie, jus corsé aux herbes</name>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (12:30 - 14:00)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (12:30 - 14:00)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Légumes (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+        </meal>
+      </category>
+      <category name="Féculents (12:30 - 14:00)">
+        <meal>
+          <name>Pommes de terre écrasées</name>
+        </meal>
+      </category>
+      <category name="Dessert (12:30 - 14:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Moelleux au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (12:30 - 14:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-22">
+      <category name="Entrée (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Rouleau de printemps aux légumes croquants, sauce thaï</name>
+          <note>Galette de riz</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Soja et produits à base de soja</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Velouté de carottes au lait de coco</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 12:29)">
+        <meal>
+          <name>Boeuf  sauté à l'impériale</name>
+          <note>Emincé de boeuf  mariné, poireaux, oignons, ail, carottes, gingembre, sauce soja, huile de sésame</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Soja et produits à base de soja</note>
+          <note>Graines de sésame et produits à base de graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (07:00 - 12:29)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 12:29)">
+        <meal>
+          <name>Duo de courgettes et tomate au ragoût de tofu, sauce tomate</name>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pousses de soja au sésame</name>
+          <note>Graines de sésame et produits à base de graines de sésame</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 12:29)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 12:29)">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Jalousie aux abricots</name>
+          <note>Pâte feuilletée crème pâtissière et abricots</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 12:29)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Entrée (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Rouleau de printemps aux légumes croquants, sauce thaï</name>
+          <note>Galette de riz</note>
+        </meal>
+        <meal>
+          <name>Velouté de carottes au lait de coco</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (12:30 - 14:00)">
+        <meal>
+          <name>Boeuf  sauté à l'impériale</name>
+          <note>Emincé de boeuf  mariné, poireaux, oignons, ail, carottes, gingembre, sauce soja, huile de sésame</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (12:30 - 14:00)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (12:30 - 14:00)">
+        <meal>
+          <name>Duo de courgettes et tomate au ragoût de tofu, sauce tomate</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pousses de soja au sésame</name>
+        </meal>
+      </category>
+      <category name="Féculents (12:30 - 14:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert (12:30 - 14:00)">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Jalousie aux abricots</name>
+          <note>Pâte feuilletée crème pâtissière et abricots</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (12:30 - 14:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-23">
+      <category name="Entrée (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de poulet chaude marinée</name>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 12:29)">
+        <meal>
+          <name>Fish fingers, quartier de citron, sauce rémoulade</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (07:00 - 12:29)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 12:29)">
+        <meal>
+          <name>Bouchée végétarienne au quorn</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 12:29)">
+        <meal>
+          <name>Tortellini panna e prosciutto</name>
+          <note>Tortellini sauce crème jambon, Produit du terroir</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Flan aux poireaux</name>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 12:29)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre grenailles rôties</name>
+          <note>En accompagnement de la grillade</note>
+        </meal>
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 12:29)">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Eclair au chocolat</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 12:29)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Entrée (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de poulet chaude marinée</name>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (12:30 - 14:00)">
+        <meal>
+          <name>Fish fingers, quartier de citron, sauce rémoulade</name>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (12:30 - 14:00)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (12:30 - 14:00)">
+        <meal>
+          <name>Bouchée végétarienne au quorn</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (12:30 - 14:00)">
+        <meal>
+          <name>Tortellini panna e prosciutto</name>
+          <note>Tortellini sauce crème jambon, Produit du terroir</note>
+        </meal>
+      </category>
+      <category name="Légumes (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Flan aux poireaux</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Féculents (12:30 - 14:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre grenailles rôties</name>
+          <note>En accompagnement de la grillade</note>
+        </meal>
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert (12:30 - 14:00)">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Eclair au chocolat</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (12:30 - 14:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-24">
+      <category name="Entrée (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de cresson</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Scampis sautés à l'ail sur lit d'épinards</name>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 12:29)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, salade verte, tomate, ketchup luxembourgeois</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (07:00 - 12:29)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 12:29)">
+        <meal>
+          <name>Accras de légumes et lentilles, sauce salsa maison</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tomate grillée au four</name>
+          <note>Herbes de Provence</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 12:29)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 12:29)">
+        <meal>
+          <name>Crème bavaroise aux fruits rouges frais</name>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 12:29)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Entrée (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de cresson</name>
+        </meal>
+        <meal>
+          <name>Scampis sautés à l'ail sur lit d'épinards</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (12:30 - 14:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, salade verte, tomate, ketchup luxembourgeois</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (12:30 - 14:00)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (12:30 - 14:00)">
+        <meal>
+          <name>Accras de légumes et lentilles, sauce salsa maison</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tomate grillée au four</name>
+          <note>Herbes de Provence</note>
+        </meal>
+      </category>
+      <category name="Féculents (12:30 - 14:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert (12:30 - 14:00)">
+        <meal>
+          <name>Crème bavaroise aux fruits rouges frais</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (12:30 - 14:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-25">
+      <category name="Entrée (07:00 - 12:29)">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Au choix : makis végétariens ou makis au saumon, sauce soja</name>
+          <note>Poissons et produits à base de poissons</note>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe de légumes avec pommes de terre</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 12:29)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Kallefsschnitzel mat Champignonszooss</name>
+          <note>Escalope de veau sauce crème champignons de Paris</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (07:00 - 12:29)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 12:29)">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 12:29)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Carottes aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 12:29)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Quinoa au bouillon de cuisson épicé</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 12:29)">
+        <meal>
+          <name>Cookie géant</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Soja et produits à base de soja</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 12:29)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="Entrée (12:30 - 14:00)">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Au choix : makis végétariens ou makis au saumon, sauce soja</name>
+        </meal>
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe de légumes avec pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (12:30 - 14:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Kallefsschnitzel mat Champignonszooss</name>
+          <note>Escalope de veau sauce crème champignons de Paris</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade (12:30 - 14:00)">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (12:30 - 14:00)">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (12:30 - 14:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Carottes aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Féculents (12:30 - 14:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Quinoa au bouillon de cuisson épicé</name>
+        </meal>
+      </category>
+      <category name="Dessert (12:30 - 14:00)">
+        <meal>
+          <name>Cookie géant</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (12:30 - 14:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-26">
+      <closed/>
+    </day>
+    <day date="2020-09-27">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

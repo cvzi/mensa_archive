@@ -1,0 +1,3187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-21">
+      <category name="Entrée">
+        <meal>
+          <name>Beignets de cabillaud, dip mayonnaise à l'ail</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Velouté de brocolis et fromage double crème</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Hausmaacher Boulette mat Tomaten Zooss</name>
+          <note>Boulettes de viande maison, sauce tomate</note>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de la mer, sauce aïoli</name>
+          <note>Saumon, cabillaud, scampis</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Curry au duo de lentilles, mangue, coco</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Penne all'arrabbiata au chorizo</name>
+          <note>Sauce tomate pimentée</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Duo de carottes aux oignons</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Penne au beurre</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Brownies maison, sauce crème anglaise</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-22">
+      <category name="Entrée">
+        <meal>
+          <name>Assiette garnie au houmous, salade roquette, tomate cerise, amandes entières, Grissini</name>
+        </meal>
+        <meal>
+          <name>Potage aux légumes du soleil</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Emincé de dinde au curry</name>
+          <note>Viande de dinde en lamelles avec une sauce curry</note>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de la mer, sauce aïoli</name>
+          <note>Saumon, cabillaud, scampis</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Veggie burger</name>
+          <note>Hamburger végétarien, petit pain, boulettes de lentilles, concombre, tomate, sauce tzatziki</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spirelli au boeuf épicé</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Haricots verts à l'ail</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Gâteau St. Honoré</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-23">
+      <category name="Entrée">
+        <meal>
+          <name>Ënnenzopp</name>
+          <note>Soupe à l'oignon à la luxembourgeoise</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Saumon fumé garni sur éventail d'avocat, sauce raifort, toast à part</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée,  sauce Tzatziki =  yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures =  choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de la mer, sauce aïoli</name>
+          <note>Saumon, cabillaud, scampis</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Cannelloni à la ricotta et épinards &quot;fait maison&quot;</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spaghetti, crème pesto, tomates séchées et pignons de pin</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Poêlée de légumes aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Assiette du chocolatier</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-24">
+      <category name="Entrée">
+        <meal>
+          <name>Crème de courgettes au parmesan</name>
+        </meal>
+        <meal>
+          <name>Pilons de poulet Tex-Mex</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Filet de saumon poché, sauce Hollandaise</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Faux-filet de boeuf grillé, sauce au poivre vert</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Feuille de brick farcie aux jeunes légumes et pois chiches, concassé de tomates</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Épinards en branches au beurre noisette</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Grompere mat Péiterséilech</name>
+          <note>Pommes persillées</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Chou à la crème et chantilly</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-25">
+      <category name="Entrée">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Piccola caprese</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Soupe chinoise au poulet</name>
+          <note>Blanc de poulet, germe de soja, champignons, vermicelle, oignons, petit pois, carottes, céleri, blanc de poireau, curry, sauce soja</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Escalope de veau panée, quartier de citron</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de la mer, sauce aïoli</name>
+          <note>Saumon, cabillaud, scampis</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Parmigiana d'aubergines et courgettes</name>
+          <note>Aubergines, courgettes, tomate parmesan, mozzarella en couches successives, origan</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tortiglioni prosciutto et funghi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Chou-fleur à la crème, échalotes et ciboulette</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre rôties</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Tartelette aux mirabelles et chantilly</name>
+          <note>Flan</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-26">
+      <closed/>
+    </day>
+    <day date="2020-09-27">
+      <closed/>
+    </day>
+    <day date="2020-09-28">
+      <category name="Entrée">
+        <meal>
+          <name>Beignets de calamars frits, sauce rémoulade et citron</name>
+        </meal>
+        <meal>
+          <name>Potage de tomates et basilic</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Cuisse de poulet rôtie, jus corsé aux herbes</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Penne all'arrabbiata</name>
+          <note>Sauce tomate pimentée</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre écrasées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Moelleux au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-29">
+      <category name="Entrée">
+        <meal>
+          <name>Rouleau de printemps aux légumes croquants, sauce thaï</name>
+          <note>Galette de riz</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Velouté de carottes au lait de coco</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Boeuf  sauté à l'impériale</name>
+          <note>Emincé de boeuf  mariné, poireaux, oignons, ail, carottes, gingembre, sauce soja, huile de sésame</note>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Duo de courgettes et tomate au ragoût de tofu, sauce tomate</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spaghetti bolognaise</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pousses de soja au sésame</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Jalousie aux abricots</name>
+          <note>Pâte feuilletée crème pâtissière et abricots</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-30">
+      <category name="Entrée">
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de poulet chaude marinée</name>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Fish fingers, quartier de citron, sauce rémoulade</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée végétarienne au quorn</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tortellini panna e prosciutto</name>
+          <note>Tortellini sauce crème jambon, Produit du terroir</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Flan aux poireaux</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre grenailles rôties</name>
+          <note>En accompagnement de la grillade</note>
+        </meal>
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Eclair au chocolat</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-01">
+      <category name="Entrée">
+        <meal>
+          <name>Crème de cresson</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Scampis sautés à l'ail sur lit d'épinards</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, salade verte, tomate, ketchup luxembourgeois</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Accras de légumes et lentilles, sauce salsa maison</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tagliatelle pesto et tomates séchées</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tomate grillée au four</name>
+          <note>Herbes de Provence</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Crème bavaroise aux fruits rouges frais</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-02">
+      <category name="Entrée">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Au choix : makis végétariens ou makis au saumon, sauce soja</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Soupe de légumes avec pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Kallëfsschnitzel mat Champignonszooss</name>
+          <note>Escalope de veau sauce crème champignons de Paris</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Mafaldine aux scampis</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Carottes aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Quinoa au bouillon de cuisson épicé</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Cookie géant</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautés, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croutons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-03">
+      <closed/>
+    </day>
+    <day date="2020-10-04">
+      <closed/>
+    </day>
+    <day date="2020-10-05">
+      <category name="Entrée">
+        <meal>
+          <name>Brochette de billes de mozzarella et tomates cerises</name>
+          <note>Tomates cerises, basilic frais , billes de mozzarella, huile d'olive et vinaigre balsamique</note>
+        </meal>
+        <meal>
+          <name>Crème de champignons, ail et persil</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Roulade de boeuf braisée au four</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Tranche de saumon, beurre citronné à l'aneth</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Hachis Parmentier aux légumes</name>
+          <note>Poireaux , carottes courgettes</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spirelli Alfredo aux lardinettes de volaille, persil plat et poivre noir</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Choux rouges aux pommes</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Purée de pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Crème brûlée</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-06">
+      <category name="Entrée">
+        <meal>
+          <name>Filet américain &quot;fait maison&quot;</name>
+        </meal>
+        <meal>
+          <name>Potage aux légumes de saison</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Gratin de poissons et fruits de mer, sauce bisque</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Entrecôte de bœuf, sauce béarnaise maison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Filet de quorn braisé aux petits légumes, sauce champignons de Paris</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spaghetti Carbonara</name>
+          <note>Lardons fumés, dés de jambon cuit, crème, parmesan râpé, poivre, sel</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Epinards en branches au beurre noisette</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Riz à l'étuvé</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Mille-feuille</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-07">
+      <category name="Entrée">
+        <meal>
+          <name>Brandade de Bacalhau</name>
+          <note>Brandade de morue</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tom Kha Kai</name>
+          <note>Potage thaï au poulet: Poulet, galanga, lait de coco, piments verts, coriandre fraîche, citronnelle, sauce de poisson</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Escalope de dinde viennoise, quartier de citron</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Entrecôte de bœuf, sauce béarnaise maison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Risotto aux champignons, petits pois, tomates séchées et copeaux de parmesan</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Gratin de macaroni au jambon cuit</name>
+          <note>Macaroni, jambon cuit, brunoise de légumes, sauce Béchamel, fromage</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Tarte aux cerises, chantilly</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-08">
+      <category name="Entrée">
+        <meal>
+          <name>Consommé de boeuf aux petits légumes</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Spare ribs, sauce barbecue</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Emincé de veau à la zurichoise</name>
+          <note>Veau sauté, champignons</note>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Entrecôte de bœuf, sauce béarnaise maison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Falafel - Döner, sauce fromage blanc aux herbes</name>
+          <note>Pain flaguette, boulettes de pois chiches, salade verte, chou blanc, oignons rouges, tomate, flocons chili</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Fettuccine au poulet piquant et noix de cajou</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tomate provençale</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Spätzele sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Moelleux au chocolat, sauce vanille</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-09">
+      <category name="Entrée">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Crème de volaille</name>
+        </meal>
+        <meal>
+          <name>Roulé de saumon fumé aux épinards et fromage frais</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Entrecôte de bœuf, sauce béarnaise maison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Spaghetti aux légumes et pignons de pin, sauce ricotta et basilic</name>
+          <note>Courgettes, carottes, poireaux</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Mafaldine, sauce napolitaine</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Grompere Purée</name>
+          <note>Purée de pommes de terre</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Paris- Brest</name>
+          <note>Pâtisserie française, forme de couronne, pâte à chou fourrée d'une crème mousseline praliné, garnie d'amandes effilées</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade bergère</name>
+          <note>Fruits à coque et produits à base de ces fruits (Noix)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte et scarole) fromage de chèvre (ou brebis), cerneaux de noix, champignons, carottes fraîches râpées, concombres, raisin blanc, raisin noir</note>
+        </meal>
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-10">
+      <closed/>
+    </day>
+    <day date="2020-10-11">
+      <closed/>
+    </day>
+    <day date="2020-10-12">
+      <category name="Entrée">
+        <meal>
+          <name>Fish fingers, sauce rémoulade maison</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Soupe Thaï au poulet épicé</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Gefëllte Kallefsbrëschtchen am Jus</name>
+          <note>Poitrine de veau farcie cuit dans son jus</note>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de poissons, sauce rouille</name>
+          <note>Saumon, scampis et filet de cabillaud</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Quiche aux tomates, épinards et fromage feta</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spaghetti bolognaise</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Choux frisés aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Gromperegratin</name>
+          <note>Gratin dauphinois</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fondant au chocolat, sauce crème anglaise</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-13">
+      <category name="Entrée">
+        <meal>
+          <name>Loempia maison, sauce soja au chili</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tortellini al brodo</name>
+          <note>Bouillon de boeuf  avec des tortellini</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Zwou Lëtzebuerger Grillwurschte mat Moschterzooss</name>
+          <note>Deux saucisses blanches luxembourgeoises, à griller, servies avec de la sauce moutarde à la luxembourgeoise</note>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de poissons, sauce rouille</name>
+          <note>Saumon, scampis et filet de cabillaud</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Moussaka végétarienne au tofu</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Orecchiette prosciutto e funghi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Haricots verts à l'ail</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Bienenstich maison - Nid d'abeilles</name>
+          <note>Gâteau originaire d'Allemagne, composé de pâte briochée fourrée à la crème pâtissière, de miel, de vanille et garnie d'amandes</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-14">
+      <category name="Entrée">
+        <meal>
+          <name>Bouneschlupp mat Mettwurscht</name>
+          <note>Potage d'haricots verts à la luxembourgeoise et saucisse fumée</note>
+        </meal>
+        <meal>
+          <name>Carpaccio de bœuf, roquette, pétales de parmesan</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Lasagne au saumon</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Entrecôte de bœuf, sauce béarnaise maison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Empanadas végétariens au ragoût de lentilles, cubes de céleri et amandes</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Penne, sauce napolitaine et saucisse salsiccia</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tomate provençale</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Quinoa au bouillon épicé</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Assiette du chocolatier</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-15">
+      <category name="Entrée">
+        <meal>
+          <name>Bouillon de Boeuf ABC</name>
+        </meal>
+        <meal>
+          <name>Duo de saumon, crème légère au raifort</name>
+          <note>Saumon fumé et tartare de saumon frais, garnitures, toast à part</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Rumsteak de boeuf au poivre vert</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de poissons, sauce rouille</name>
+          <note>Saumon, scampis et filet de cabillaud</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Pizza Végétarienne</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Cannelloni à la bolognaise</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bouquetière de légumes au persil</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes dauphines</name>
+          <note>Boulettes frites à base d'un mélange de purée de pommes de terre et de pâte à choux</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Crème renversée au caramel</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-16">
+      <category name="Entrée">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Crème de tomates</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Tarte flambée</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Cordon bleu de dinde non pané, sauce crème</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Mixed grill de poissons, sauce rouille</name>
+          <note>Saumon, scampis et filet de cabillaud</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée au quorn et légumes frais</name>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Fusilli all'amatriciana</name>
+          <note>Sauce tomate, oignons et lardons</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Blettes au beurre noisette</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre rissolées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Quetscheflued mat Klappschmant</name>
+          <note>Tarte aux quetsches, crème chantilly</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade César au poulet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade de pommes de terre et saucisse viennoise</name>
+          <note>Gromperenzalot mat Wirschtercher: Salade de pommes de terre, oignons, oeufs durs, tomates, ciboulettes, persil frais, saucisse viennoise</note>
+        </meal>
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-17">
+      <closed/>
+    </day>
+    <day date="2020-10-18">
+      <closed/>
+    </day>
+    <day date="2020-10-19">
+      <category name="Entrée">
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+        </meal>
+        <meal>
+          <name>Cevapcici, sauce aux poivrons rouges</name>
+          <note>Haché de boeuf  et agneau, ail, oignons, paprika, persil</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Mixed grill de viandes, sauce marchand de vin</name>
+          <note>Escalopine de poulet, 1/2 Lëtzebuerger Grillwurscht, rumsteak</note>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Tranche de saumon, beurre citronné à l'aneth</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Alloo Palak</name>
+          <note>Epinards, pommes de terre, tomates en dés, curry, oignons, piment, ail, cumin, curcuma, coriandre</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Orecchiette salsiccia, ail, tomate</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Champignons sautés aux herbes et à l'ail</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre sablées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Panna cotta aux fruits rouges</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-20">
+      <category name="Entrée">
+        <meal>
+          <name>Minestrone alla genovese</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Salade mélange, chèvre lardé aux éclats de noisettes</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Roastbeef au four, sauce béarnaise</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Brochette de saucisses mixtes, sauce moutarde luxembourgeoise</name>
+          <note>1/2 merguez, 1/2 Lëtzebuerger Grillwurscht, 1/2 Mettwurscht, 1/2 Chipolata</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Gratinéiert Kniddele mat Geméis</name>
+          <note>Quenelles de farine gratinées aux légumes et crème</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tagliatelle à la pancetta, tomates cerise et champignons frais</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Gequellte Grompere mat Stoffi a Kraïder</name>
+          <note>Pommes de terre en robe des champs sauce fromage blanc aux herbes</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Eclair à la vanille</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-21">
+      <category name="Entrée">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Soupe de légumes</name>
+        </meal>
+        <meal>
+          <name>Spicy Chicken Wings</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée,  sauce Tzatziki =  yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures =  choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Brochette de saucisses mixtes, sauce moutarde luxembourgeoise</name>
+          <note>1/2 merguez, 1/2 Lëtzebuerger Grillwurscht, 1/2 Mettwurscht, 1/2 Chipolata</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Sauté de tofu mariné aux légumes</name>
+          <note>Céleris, mange tout, courgettes, échalotes</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Coquillettes à la crème, jambon cuit et persil plat</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Mange tout aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Assiette du pâtissier</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-22">
+      <category name="Entrée">
+        <meal>
+          <name>Crème de tomates au basilic</name>
+        </meal>
+        <meal>
+          <name>Makis de saumon, wasabi et sauce soja</name>
+          <note>3 pièces</note>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Emincé de poulet sauté aux noix de cajou</name>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Brochette de saucisses mixtes, sauce moutarde luxembourgeoise</name>
+          <note>1/2 merguez, 1/2 Lëtzebuerger Grillwurscht, 1/2 Mettwurscht, 1/2 Chipolata</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Gromperekichelcher mat zwee Spigeleeër</name>
+          <note>Galettes de pommes de terre et deux oeufs au plat</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Casarecce al ragù</name>
+          <note>Oignons, carottes, céleri branche, ail, tomates, viande de boeuf hachée, chair à saucisse</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+        <meal>
+          <name>Wok de légumes</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Pâtes chinoises</name>
+        </meal>
+        <meal>
+          <name>Pommes au four, crème aigre</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Tarte aux pommes et chantilly</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-23">
+      <category name="Entrée">
+        <meal>
+          <name>Assiette AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Héngerbritt</name>
+          <note>Bouillon de volaille fait maison</note>
+        </meal>
+        <meal>
+          <name>Mini Hamburger garni</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Fish and chips, sauce rémoulade</name>
+          <note>Filet de cabillaud frit (pâte à frire), quartier de citron à part</note>
+        </meal>
+        <meal>
+          <name>Grande assiette du salad'bar</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Grillade">
+        <meal>
+          <name>Brochette de saucisses mixtes, sauce moutarde luxembourgeoise</name>
+          <note>1/2 merguez, 1/2 Lëtzebuerger Grillwurscht, 1/2 Mettwurscht, 1/2 Chipolata</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Curry de légumes à l'indienne</name>
+          <note>Pois chiches, petits pois, carottes, chou fleur, poireaux, céleris, lait de coco</note>
+        </meal>
+        <meal>
+          <name>Plat végétarien AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Brocolis à l'ail</name>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Quinoa à l'étuvé</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Tiramisu classique</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade grecque</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades vertes, Feta , olives noires dénoyautées, mélange de poivrons, quartiers de tomate, concombres, oignons rouges, persil plat frais, origan séché, pâtes grecques</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Taboulé à l'orientale</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Mélange de salades (feuille de chêne rouge et verte, scarole), taboulé cuit, filet de poulet coupé très fin, tomates coupées en dés, concombres coupés en dés, poivrons tricolores coupés en dés, olives noires coupées en rondelles,</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-24">
+      <closed/>
+    </day>
+    <day date="2020-10-25">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

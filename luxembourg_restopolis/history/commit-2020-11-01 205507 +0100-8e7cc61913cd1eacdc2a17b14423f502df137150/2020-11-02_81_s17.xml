@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-11-02">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Potage de tomates et basilic</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Cuisse de poulet rôtie, jus corsé aux herbes</name>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Penne all'arrabbiata</name>
+          <note>Sauce tomate pimentée</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre écrasées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Moelleux au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-03">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Velouté de carottes au lait de coco</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Boeuf  sauté à l'impériale</name>
+          <note>Emincé de boeuf  mariné, poireaux, oignons, ail, carottes, gingembre, sauce soja, huile de sésame</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Duo de courgettes et tomate au ragoût de tofu, sauce tomate</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spaghetti bolognaise</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Pousses de soja au sésame</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Jalousie aux abricots</name>
+          <note>Pâte feuilletée crème pâtissière et abricots</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-04">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Fish fingers, quartier de citron, sauce rémoulade</name>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée végétarienne au quorn</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tortellini panna e prosciutto</name>
+          <note>Tortellini sauce crème jambon, Produit du terroir</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Flan aux poireaux</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Eclair au chocolat</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-05">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Crème de cresson</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, salade verte, tomate, ketchup luxembourgeois</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Accras de légumes et lentilles, sauce salsa maison</name>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tagliatelle pesto et tomates séchées</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Tomate grillée au four</name>
+          <note>Herbes de Provence</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Crème bavaroise aux fruits rouges frais</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-06">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Soupe de légumes avec pommes de terre</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Kallefsschnitzel mat Champignonszooss</name>
+          <note>Escalope de veau sauce crème champignons de Paris</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Mafaldine aux scampis</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Carottes aux échalotes</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre rissolées</name>
+        </meal>
+        <meal>
+          <name>Quinoa au bouillon de cuisson épicé</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Cookie géant</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+        </meal>
+      </category>
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Salad'bar &quot;à emporter&quot;</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+    <day date="2020-11-09">
+      <closed/>
+    </day>
+    <day date="2020-11-10">
+      <closed/>
+    </day>
+    <day date="2020-11-11">
+      <closed/>
+    </day>
+    <day date="2020-11-12">
+      <closed/>
+    </day>
+    <day date="2020-11-13">
+      <closed/>
+    </day>
+    <day date="2020-11-14">
+      <closed/>
+    </day>
+    <day date="2020-11-15">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

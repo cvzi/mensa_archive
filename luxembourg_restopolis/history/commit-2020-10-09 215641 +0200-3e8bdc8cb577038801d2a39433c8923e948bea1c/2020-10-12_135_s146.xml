@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-05">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Nouilles Ramen au soja, champignons noirs et poulet mariné</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Avoine)</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-06">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>bio</note>
+          <note>produit Transfair</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Pizza au jambon cuit du pays, mozzarella, tomates</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Pizza Margherita</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Tomate, mozzarella, basilic, huile d'olive</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-07">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Huit</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>bio</note>
+          <note>produit Transfair</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Couscous aux poulet et merguez</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Légumes couscous et bouillon de légumes</name>
+          <note>Carottes, céleris en branches, navets, poireaux, oignons, pois chiches, courgettes</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Semoule aux épices</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge)</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-08">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>bio</note>
+          <note>produit Transfair</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Omelette paysanne</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Omelette au lard, pommes de terre et oignons</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge)</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-09">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau Pumpkin &amp; Spices maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-10">
+      <closed/>
+    </day>
+    <day date="2020-10-11">
+      <closed/>
+    </day>
+    <day date="2020-10-12">
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Currywurst</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Saucisse blanche grillée, sauce tomate épicée au curry</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Quartiers de pommes de terre préparés au four</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Avoine)</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-13">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau marbré maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de poulet chaude et marinée</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Laitue romaine, filet de poulet, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Fruits à coque et produits à base de ces fruits</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Avoine)</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-14">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Hamburger maison garni</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Viande de boeuf hachée, petit pain flaguette ou petit pain spécial, salade verte, tomate, ketchup luxembourgeois</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Fruits à coque et produits à base de ces fruits</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Fritten - pommes frites</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Avoine)</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-15">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Croissant fourré</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Kniddele mat Speck a Raam, 2 Spigelëer</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Quenelles de farine à la luxembourgeoise, lardons, crème fraîche, 2 oeufs sur le plat</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Fruits à coque et produits à base de ces fruits</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Soja et produits à base de soja</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>Avoine)</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé</note>
+          <note>Orge</note>
+          <note>Seigle</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-16">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-17">
+      <closed/>
+    </day>
+    <day date="2020-10-18">
+      <closed/>
+    </day>
+    <day date="2020-10-19">
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Carré de quiche aux légumes de saison</name>
+          <note>Céleris, oignons, poireaux, choux</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-20">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Galette de pommes de terre au saumon fumé garni, crème épaisse à la ciboulette</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-21">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau aux carottes maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tomate farcie à la viande</name>
+          <note>Viande hachée porc et boeuf</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Natur Grompere mat Péiterséileg</name>
+          <note>Pommes natures persillées</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-22">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Wok au boeuf  sauté</name>
+          <note>Mélange de poivrons, pousse de soja, échalotes, ail, shiitaké</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Riz basmati</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-23">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Petit pain au chocolat</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-24">
+      <closed/>
+    </day>
+    <day date="2020-10-25">
+      <closed/>
+    </day>
+    <day date="2020-10-26">
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Riz basmati</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-27">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Streusel</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Geméiszopp mat Mettwurscht an Paangecher</name>
+          <note>Potage de légumes, saucisse fumée et crêpes salées</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-28">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tartiflette au reblochon</name>
+          <note>Pommes de terre, oignons</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-29">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau au chocolat maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Brochette de cevapcici, sauce aux poivrons rouges</name>
+          <note>Viande hachée de boeuf, ail, paprika</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Tagliatelle à l'huile d'olive</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-30">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-31">
+      <closed/>
+    </day>
+    <day date="2020-11-01">
+      <closed/>
+    </day>
+    <day date="2020-11-02">
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Omelette roulée aux légumes marinés</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-03">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau marbré maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Wok à l'émincé de poulet piquant</name>
+          <note>Chili, basilic thaï, oignons,  poireaux, carottes</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-04">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Raclette garnie</name>
+          <note>Jambon cru et cuit, petits oignons, cornichons</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Gequellte Grompere</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-05">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Croissant fourré</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:15)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:15)">
+        <meal>
+          <name>Moules à la crème</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:15)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:15)">
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:15)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-06">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

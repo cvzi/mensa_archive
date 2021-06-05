@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-11-09">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Potage de tomates et basilic</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Brochette de poulet et bacon, jus corsé aux herbes</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Penne all'arrabbiata</name>
+          <note>Sauce tomate pimentée</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Carottes aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre sablées</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Moelleux au chocolat</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious »">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-10">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Velouté de carottes au lait de coco</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Goulash à la hongroise</name>
+          <note>Viande de boeuf, tomate, poivron, oignon, ail, paprika</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Gratinéiert Kniddele mat Geméis</name>
+          <note>Quenelles de farine gratinées aux légumes et crème</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Spaghetti bolognaise</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Choux de Bruxelles crème à l'ail</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Mousse  façon Forêt-Noire</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious »">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-11">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Fish fingers, quartier de citron, sauce rémoulade</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Riz cantonnais végétarien au quorn sauté à l'ail et au persil plat</name>
+          <note>Petits pois, pousse soja, carottes, poireaux, oignons, céleri branche, oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz">
+        <meal>
+          <name>Tortellini panna e prosciutto</name>
+          <note>Tortellini sauce crème jambon, Produit du terroir</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dés de céleris sautés et persil plat</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tiramisu au spéculoos</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious »">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-12">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe de légumes avec pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmands, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Petits pois aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Purée de pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Apple pie</name>
+          <note>Tarte aux pommes couverte</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious »">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-13">
+      <closed/>
+    </day>
+    <day date="2020-11-14">
+      <closed/>
+    </day>
+    <day date="2020-11-15">
+      <closed/>
+    </day>
+    <day date="2020-11-16">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tom Kha Kai</name>
+          <note>Potage thaï au poulet: Poulet, galanga, lait de coco, piments verts, coriandre fraîche, citronnelle, sauce de poisson</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Roulade de boeuf braisée au four</name>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Hachis Parmentier aux légumes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Spirelli Alfredo aux lardinettes de volaille, persil plat et poivre noir</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Carottes à la crème, persil et aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Crème mascarpone fruits de la passion</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-17">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Potage aux légumes de saison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Gratin de poissons et fruits de mer, sauce bisque</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Filet de quorn braisé aux petits légumes, sauce champignons de Paris</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Spaghetti Carbonara</name>
+          <note>Lardons fumés, dés de jambon cuit, crème, parmesan râpé, poivre, sel</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Epinards en branches au beurre noisette</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz à l'étuvé</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Eclair vanille</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-18">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de champignons, ail et persil</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Escalope de dinde viennoise, quartier de citron</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Risotto aux champignons, petits pois, tomates séchées et copeaux de parmesan</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Fettuccine au poulet piquant et noix de cajou</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre sautées</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Strudel aux pommes à la cannelle</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-19">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de volaille</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Kallefschnitzel mat Ram Zooss</name>
+          <note>Escalope de veau poêlée, sauce crème</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Spaghetti aux légumes, ricotta, tomates et persil plat</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Grompere Purée</name>
+          <note>Purée de pommes de terre</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Mont Blanc</name>
+          <note>Purée de marrons, meringue, crème fouettée</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-20">
+      <closed/>
+    </day>
+    <day date="2020-11-21">
+      <closed/>
+    </day>
+    <day date="2020-11-22">
+      <closed/>
+    </day>
+    <day date="2020-11-23">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe Thaï au poulet épicé</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Emincé de poulet à la luxembourgeoise</name>
+          <note>Oignon, crème fraîche, vin blanc, persil</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Quiche aux tomates, épinards et fromage feta</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Pasta asciutta - Spaghetti</name>
+          <note>Haché de boeuf  et porc, pancetta, oignons, ail, carotte, céleri, tomate pelée, concentré de tomates, laurier, persil, origan, huile d'olive</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Choux frisés aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Kaiserschmarrn</name>
+          <note>Gâteau aux oeufs, cuit à la poêle, saupoudré de sucre glace</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-24">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tortellini al brodo</name>
+          <note>Bouillon de boeuf  avec des tortellini</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Cordon bleu de porc non pané, sauce aux champignons</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Moussaka végétarienne au tofu fumé</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Orecchiette alla crudaiola</name>
+          <note>Tomates cerise coupées, ail, basilic, ricotta, huile d'olive extra vierge, roquette</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Brocolis à l'ail</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes croquettes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Stollen maison, sauce vanille</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-25">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Bouneschlupp mat Mettwurscht</name>
+          <note>Potage d'haricots verts à la luxembourgeoise et saucisse fumée</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Gefëllte Kallefsbrëschtchen am Jus</name>
+          <note>Poitrine de veau farcie cuit dans son jus</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Empanadas végétariens au ragoût de lentilles, cubes de céleri et amandes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Cannelloni à la ricotta et épinards &quot;fait maison&quot;, sauce crème</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Flageolets aux herbes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Assiette du chocolatier</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-26">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de tomates</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Emincé de boeuf</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Bouchée au quorn et légumes frais</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes et persil</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Beignet de pommes à la cannelle</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-27">
+      <closed/>
+    </day>
+    <day date="2020-11-28">
+      <closed/>
+    </day>
+    <day date="2020-11-29">
+      <closed/>
+    </day>
+    <day date="2020-11-30">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Bouillon de Boeuf aux vermicelles</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Mixed grill de viandes, sauce au poivre vert</name>
+          <note>Escalopine de poulet, Lëtzebuerger Grillwurscht, rumsteak</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Alloo Palak</name>
+          <note>Epinards, pommes de terre, tomates en dés, curry, oignons, piment, ail, cumin, curcuma, coriandre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Orecchiette salsiccia, ail, tomate</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou-fleur gratiné</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre sablées</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Panna cotta au pain d'épices</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux beignets de morue</name>
+          <note>Mélange de salades, pommes de terre, pois chiches, tomate, oignon, ail</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade farfalle, tomates et mozzarella</name>
+          <note>Farfalle, billes de mozzarella, tomates cerises, tomates séchées, roquette, Parmesan</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade Surf &amp; Turf</name>
+          <note>Mélange de salades, pâtes, scampis marinés, bifana de boeuf, oeufs, tomate, quartier, concombre, Thousand Island dressing</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-01">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Minestrone alla genovese</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Duo de rôti de veau et roastbeef, sauce béarnaise</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Gratinéiert Kniddele mat Geméis</name>
+          <note>Quenelles de farine gratinées aux légumes et crème</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle à la pancetta, tomates cerises</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre boulangère</name>
+          <note>Pommes de terre, oignons, bouillon</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Biscuit roulé au praliné</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux beignets de morue</name>
+          <note>Mélange de salades, pommes de terre, pois chiches, tomate, oignon, ail</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade farfalle, tomates et mozzarella</name>
+          <note>Farfalle, billes de mozzarella, tomates cerises, tomates séchées, roquette, Parmesan</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade Surf &amp; Turf</name>
+          <note>Mélange de salades, pâtes, scampis marinés, bifana de boeuf, oeufs, tomate, quartier, concombre, Thousand Island dressing</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-02">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe de légumes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée,  sauce Tzatziki =  yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures =  choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Coquillettes crème au jambon cuit et persil plat</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Mange tout aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Assiette du pâtissier</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux beignets de morue</name>
+          <note>Mélange de salades, pommes de terre, pois chiches, tomate, oignon, ail</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade farfalle, tomates et mozzarella</name>
+          <note>Farfalle, billes de mozzarella, tomates cerises, tomates séchées, roquette, Parmesan</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade Surf &amp; Turf</name>
+          <note>Mélange de salades, pâtes, scampis marinés, bifana de boeuf, oeufs, tomate, quartier, concombre, Thousand Island dressing</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-03">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Buschtawen Zopp</name>
+          <note>Bouillon aux pâtes en forme de lettres</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Paschtéit</name>
+          <note>Bouchée à la Reine</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Paschtéit  mat Quorn a frëschem Geméis</name>
+          <note>Bouchée au quorn et légumes frais</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Petits pois aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Räis</name>
+          <note>Riz</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Mousse aux deux chocolats</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux beignets de morue</name>
+          <note>Mélange de salades, pommes de terre, pois chiches, tomate, oignon, ail</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade farfalle, tomates et mozzarella</name>
+          <note>Farfalle, billes de mozzarella, tomates cerises, tomates séchées, roquette, Parmesan</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade Surf &amp; Turf</name>
+          <note>Mélange de salades, pâtes, scampis marinés, bifana de boeuf, oeufs, tomate, quartier, concombre, Thousand Island dressing</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-04">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de tomates au basilic</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Emincé de poulet sauté aux noix de cajou</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Sauté de tofu mariné aux légumes</name>
+          <note>Céleris, mange tout, courgettes, échalotes</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Wok de légumes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pâtes chinoises</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Gâteau au cacao, garniture à la noix de coco</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade aux beignets de morue</name>
+          <note>Mélange de salades, pommes de terre, pois chiches, tomate, oignon, ail</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade farfalle, tomates et mozzarella</name>
+          <note>Farfalle, billes de mozzarella, tomates cerises, tomates séchées, roquette, Parmesan</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade Surf &amp; Turf</name>
+          <note>Mélange de salades, pâtes, scampis marinés, bifana de boeuf, oeufs, tomate, quartier, concombre, Thousand Island dressing</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-05">
+      <closed/>
+    </day>
+    <day date="2020-12-06">
+      <closed/>
+    </day>
+    <day date="2020-12-07">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Velouté de volaille</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Kallëfsblanquette mat wäisser Zooss</name>
+          <note>Blanquette de veau à l'ancienne - Bouillon de viande liée, crème fraîche, champignons</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Poêlée de légumes aux lentilles et tempeh mariné</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Linguine à la Carbonara</name>
+          <note>Lardons fumés, dés de jambon cuit, crème, parmesan râpé, poivre, sel</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Carottes aux oignons</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Brownies maison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au poulet mariné et noix de cajou</name>
+          <note>Laitue romaine, salade radicchio, avocat, concombre, oignon rouge, tomate cerise, sauce milles Îles</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de tofu marinée et grillée</name>
+          <note>Laitue romaine, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, sauce soja et oignons nouveaux</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa et fish fingers, sauce rémoulade</name>
+          <note>Mélange de salades vertes, tomate, concombre, radis</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-08">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de céleri</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Saltimbocca de porc à la romana</name>
+          <note>Jambon cru, feuille de sauge, jus brun lié</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Spaghetti à la carbonara de quorn</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Penne sauce tomate et chorizo</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou romanesco au beurre et persil</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Crème brûlée</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au poulet mariné et noix de cajou</name>
+          <note>Laitue romaine, salade radicchio, avocat, concombre, oignon rouge, tomate cerise, sauce milles Îles</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de tofu marinée et grillée</name>
+          <note>Laitue romaine, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, sauce soja et oignons nouveaux</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa et fish fingers, sauce rémoulade</name>
+          <note>Mélange de salades vertes, tomate, concombre, radis</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-09">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe de poissons et ses croûtons à la rouille</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Couscous garni</name>
+          <note>Saucisse merguez, pilon de poulet, côtelette d'agneau</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Eggs Benedict, 1 bagel</name>
+          <note>Omelette roulée, épinards, sauce crème</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Pâtes/Riz (07:00 - 18:00)">
+        <meal>
+          <name>Tortiglioni al forno</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes couscous et bouillon de légumes</name>
+          <note>Carottes, céleris en branches, navets, poireaux, oignons, pois chiches, courgettes</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tomate grillée</name>
+          <note>En accompagnement du plat végétarien ou grillade</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Semoule de blé</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Chou à la crème</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au poulet mariné et noix de cajou</name>
+          <note>Laitue romaine, salade radicchio, avocat, concombre, oignon rouge, tomate cerise, sauce milles Îles</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de tofu marinée et grillée</name>
+          <note>Laitue romaine, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, sauce soja et oignons nouveaux</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa et fish fingers, sauce rémoulade</name>
+          <note>Mélange de salades vertes, tomate, concombre, radis</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-10">
+      <category name="Entrée (07:00 - 18:00)">
+        <meal>
+          <name>Bisque de homard, crème fouettée à la ciboulette</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (07:00 - 18:00)">
+        <meal>
+          <name>Emincé de boeuf, jus réduit</name>
+          <note>Tomate provençale, fagot bardé d'haricots verts, pommes dauphines</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (07:00 - 18:00)">
+        <meal>
+          <name>Mille-feuille au quorn et champignons des bois</name>
+          <note>Pleurotes, champignons brun, champignons de Paris</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (07:00 - 18:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tomate provençale, fagot bardé d'haricots verts</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (07:00 - 18:00)">
+        <meal>
+          <name>Pommes dauphines</name>
+          <note>Boulettes frites à base d'un mélange de purée de pommes de terre et de pâte à choux</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (07:00 - 18:00)">
+        <meal>
+          <name>Bûche de Noël &quot;fait maison&quot;</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (07:00 - 18:00)">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (07:00 - 18:00)">
+        <meal>
+          <name>Salade au poulet mariné et noix de cajou</name>
+          <note>Laitue romaine, salade radicchio, avocat, concombre, oignon rouge, tomate cerise, sauce milles Îles</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade César à l'escalope de tofu marinée et grillée</name>
+          <note>Laitue romaine, oeuf dur, tomates, Grana Padano, croûtons à l’ail, persil frais, sauce soja et oignons nouveaux</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa et fish fingers, sauce rémoulade</name>
+          <note>Mélange de salades vertes, tomate, concombre, radis</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="04) Coffee Break (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Catering « Delicious » (07:00 - 18:00)">
+        <meal>
+          <name>Muffins maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-11">
+      <closed/>
+    </day>
+    <day date="2020-12-12">
+      <closed/>
+    </day>
+    <day date="2020-12-13">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

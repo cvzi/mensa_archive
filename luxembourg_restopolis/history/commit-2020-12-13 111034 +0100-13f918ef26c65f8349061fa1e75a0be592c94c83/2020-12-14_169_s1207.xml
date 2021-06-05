@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-12-14">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Ierzebulli mat Speck</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Potage de pois cassés à la luxembourgeoise, lard fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Escalope de poulet, sauce au curry</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Lasagne végétarienne</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou-fleur à la crème, persil et oignons</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Fettuccine au beurre</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Semoule au lait à la vanille, compote de pommes maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>DayCare (gratuit) - Collation du matin</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Goûter</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Petit Déjeuner</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-15">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Velouté de brocolis et fromage double crème</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Choucroute garnie</name>
+          <note>1/2 Mettwurscht, 1/2 viennoise, 1/2 tranche de lard maigre, 1 tranche de collet de porc fumé</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Gratin de chou-fleur aux oeufs durs à la luxembourgeoise</name>
+          <note>2 oeufs cuits dur, pommes vapeur, sauce béchamel, gratiné fromage Emmental</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Choucroute</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Épinards en branches à la crème d'ail</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre persillées</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Batônnets de carottes et concombres, fromage blanc aux herbes</name>
+          <note>pain, fruits coupés</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>DayCare (gratuit) - Collation du matin</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Goûter</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Petit Déjeuner</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-16">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de carottes et gingembre</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Feuilleté aux poissons et fruits de mer, sauce bisque</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mollusques et produits à base de mollusques</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Galette de haricots rouges, concassé de tomates</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Flan aux poireaux</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Gâteau à la carotte, fruits coupés</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>DayCare (gratuit) - Collation du matin</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Goûter</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Petit Déjeuner</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-17">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe à l'oignon, toast au fromage</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée au quorn et légumes frais</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Purée de pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Muffin salé aux légumes, fruits coupés</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>DayCare (gratuit) - Collation du matin</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Goûter</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Petit Déjeuner</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-18">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consommé de boeuf aux petits légumes</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Boeuf Stroganoff</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Tartiflette végétarienne</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Champignons sautés aux herbes et à l'ail</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Tagliatelle à l'huile d'olive</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Suggestion du chef</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi">
+        <meal>
+          <name>Cookie maison, fromage blanc nature ou au coulis de fruits</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Spécial">
+        <meal>
+          <name>DayCare (gratuit) - Collation du matin</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Goûter</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>DayCare (gratuit) - Petit Déjeuner</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-19">
+      <closed/>
+    </day>
+    <day date="2020-12-20">
+      <closed/>
+    </day>
+    <day date="2020-12-21">
+      <closed/>
+    </day>
+    <day date="2020-12-22">
+      <closed/>
+    </day>
+    <day date="2020-12-23">
+      <closed/>
+    </day>
+    <day date="2020-12-24">
+      <closed/>
+    </day>
+    <day date="2020-12-25">
+      <closed/>
+    </day>
+    <day date="2020-12-26">
+      <closed/>
+    </day>
+    <day date="2020-12-27">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

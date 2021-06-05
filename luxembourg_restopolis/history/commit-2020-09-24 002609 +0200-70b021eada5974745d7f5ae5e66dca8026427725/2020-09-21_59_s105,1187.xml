@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-21">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Carré de quiche Lorraine &quot;maison&quot;</name>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Carré de quiche Lorraine &quot;maison&quot;</name>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-22">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Dürüm et ses garnitures, sauce pita</name>
+          <note>Le dürüm est un kebab où le pain est remplacé par une galette turque</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Dürüm et ses garnitures, sauce pita</name>
+          <note>Le dürüm est un kebab où le pain est remplacé par une galette turque</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-23">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Chicken Burger</name>
+          <note>Viande de poulet, petit pain spécial « Hamburger », laitue, rondelles de tomate, rondelles de concombre</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Chicken Burger</name>
+          <note>Viande de poulet, petit pain spécial « Hamburger », laitue, rondelles de tomate, rondelles de concombre</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-24">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Fajitas de boeuf maison</name>
+          <note>Tortilla farcie d'un haché de boeuf cuit en sauce, haricots rouges, oignons, ail, cumin, coriandre, cheddar, à part: guacamole maison, crème épaisse</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Fajitas de boeuf maison</name>
+          <note>Tortilla farcie d'un haché de boeuf cuit en sauce, haricots rouges, oignons, ail, cumin, coriandre, cheddar, à part: guacamole maison, crème épaisse</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-25">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Sandwich Wiener Schnitzel sauce tartare maison</name>
+          <note>garniture salade et tomate</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade niçoise</name>
+          <note>Mélange de salades vertes, thon, pommes de terre, haricots verts, oeufs durs, tomates, oignons rouges, concombres, olives noires dénoyautées, poivrons, anchois</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Sandwich Wiener Schnitzel sauce tartare maison</name>
+          <note>garniture salade et tomate</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-26">
+      <closed/>
+    </day>
+    <day date="2020-09-27">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

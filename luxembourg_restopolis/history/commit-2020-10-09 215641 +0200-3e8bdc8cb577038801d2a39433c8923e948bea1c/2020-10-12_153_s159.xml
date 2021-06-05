@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-10-05">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Carré de quiche aux légumes de saison</name>
+          <note>Céleris, oignons, poireaux, choux</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-06">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Galette de pommes de terre au saumon fumé garni, crème épaisse à la ciboulette</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-07">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tomate farcie à la viande</name>
+          <note>Viande hachée porc et boeuf</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Natur Grompere mat Péiterséileg</name>
+          <note>Pommes natures persillées</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-08">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Wok au boeuf  sauté</name>
+          <note>Mélange de poivrons, pousse de soja, échalotes, ail, shiitaké</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz basmati</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-09">
+      <closed/>
+    </day>
+    <day date="2020-10-10">
+      <closed/>
+    </day>
+    <day date="2020-10-11">
+      <closed/>
+    </day>
+    <day date="2020-10-12">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Légumes sautés façon thaï, curry de pois chiches</name>
+          <note>Choux verts, pommes de terre, poireaux, pois gourmand, curry de pois chiches, cardamome, lait coco, sauce soja, citron vert</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Riz basmati</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-13">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Geméiszopp mat Mettwurscht an Paangecher</name>
+          <note>Potage de légumes, saucisse fumée et crêpes salées</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-14">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tartiflette au reblochon</name>
+          <note>Pommes de terre, oignons</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-15">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Brochette de cevapcici, sauce aux poivrons rouges</name>
+          <note>Viande hachée de boeuf, ail, paprika</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Tagliatelle à l'huile d'olive</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-16">
+      <closed/>
+    </day>
+    <day date="2020-10-17">
+      <closed/>
+    </day>
+    <day date="2020-10-18">
+      <closed/>
+    </day>
+    <day date="2020-10-19">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Omelette roulée aux légumes marinés</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-20">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Wok à l'émincé de poulet piquant</name>
+          <note>Chili, basilic thaï, oignons,  poireaux, carottes</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-21">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Raclette garnie</name>
+          <note>Jambon cru et cuit, petits oignons, cornichons</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Gequellte Grompere</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-22">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Moules à la crème</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-23">
+      <closed/>
+    </day>
+    <day date="2020-10-24">
+      <closed/>
+    </day>
+    <day date="2020-10-25">
+      <closed/>
+    </day>
+    <day date="2020-10-26">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Penne all'arrabbiata</name>
+          <note>Sauce tomate pimentée</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-27">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Carré de quiche Lorraine &quot;maison&quot;</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+        <meal>
+          <name>Kapp Zalot mat Eeër, Knuewelek a Vinaigrette mat ram</name>
+          <note>Salade de laitue aux oeufs à l'ail, vinaigrette à la crème fraîche</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-28">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+        <meal>
+          <name>Tomates farcies</name>
+          <note>Haché de viande</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Natur Grompere mat Péiterséileg</name>
+          <note>Pommes natures persillées</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-29">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Moules à la crème</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-30">
+      <closed/>
+    </day>
+    <day date="2020-10-31">
+      <closed/>
+    </day>
+    <day date="2020-11-01">
+      <closed/>
+    </day>
+    <day date="2020-11-02">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Falafel - Döner, sauce fromage blanc aux herbes</name>
+          <note>Pain flaguette, boulettes de pois chiches, salade verte, chou blanc, oignons rouges, tomate, flocons chili</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-03">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Hausmaacher Gromperenzalot mat zwee waarme Wirschtercher</name>
+          <note>Salade de pommes de terre maison, deux saucisses viennoises servies chaudes</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-04">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Cheeseburger maison</name>
+          <note>Viande de boeuf, petit pain spécial « Hamburger » ou pain Flaguette 100g, fromage, laitue, rondelle de tomate, rondelle de cornichon</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-05">
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>2 Spigelëer mat Spinat an getripsten Gromper</name>
+          <note>2 oeufs sur le plat, épinards, pommes de terre écrasées</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-06">
+      <closed/>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

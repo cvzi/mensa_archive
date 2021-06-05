@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-28">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Focaccia à la crudaiola</name>
+          <note>Tomates cerise coupées, ail, basilic, ricotta, huile d'olive, roquette</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Focaccia classica au jambon cuit et mozzarella</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Focaccia à la crudaiola</name>
+          <note>Tomates cerise coupées, ail, basilic, ricotta, huile d'olive, roquette</note>
+        </meal>
+        <meal>
+          <name>Focaccia classica au jambon cuit et mozzarella</name>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-29">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Focaccia classica au jambon cuit et mozzarella</name>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Sandwich Grillwurscht</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Focaccia classica au jambon cuit et mozzarella</name>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Sandwich Grillwurscht</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-30">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Burrito mexicain</name>
+          <note>Tortilla farcie de viande de boeuf , haricots rouges, tomates, épices, piment, salade verte</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Burrito mexicain</name>
+          <note>Tortilla farcie de viande de boeuf , haricots rouges, tomates, épices, piment, salade verte</note>
+        </meal>
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-01">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Sandwich Chicken Teriyaki</name>
+          <note>petite escalope de poulet marinée avec de la sauce Teriyaki, rôtie et servie sur un sandwich garni avec de la salade, tomate et concombre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Poissons et produits à base de poissons</note>
+          <note>Soja et produits à base de soja</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Graines de sésame et produits à base de graines de sésame</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Sandwich Chicken Teriyaki</name>
+          <note>petite escalope de poulet marinée avec de la sauce Teriyaki, rôtie et servie sur un sandwich garni avec de la salade, tomate et concombre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-02">
+      <category name="A emporter Snack à emporter (11:00 - 12:29)">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Spicy Fishburger</name>
+          <note>Roquette, concombre, chili, gingembre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (12:30 - 15:45)">
+        <meal>
+          <name>Salade de farfalle au poulet</name>
+          <note>Mélange de salades, filet de poulet épicé, tomates, poivrons, persil plat frais</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+        </meal>
+        <meal>
+          <name>Salade jambon et fromage</name>
+          <note>Mélange de salades (feuille de chêne verte, feuille de chêne rouge, scarole), jambon cuit luxembourgeois, Emmental, oeuf cuit dur, quartiers de tomates, oignons rouges, cornichons, persil frais</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Céleri et produits à base de céleri</note>
+        </meal>
+        <meal>
+          <name>Spicy Fishburger</name>
+          <note>Roquette, concombre, chili, gingembre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-10-03">
+      <closed/>
+    </day>
+    <day date="2020-10-04">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2021-01-18">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Lasagne aux légumes</name>
+          <note>Légumes de saison, ail, herbes fraîches, concassé de tomates, sauce béchamel, mozzarella râpé</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-19">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartiflette au reblochon</name>
+          <note>Pommes de terre, oignons</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-20">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau marbré maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Wok aux scampis, garnitures au choix</name>
+          <note>Noix de cajou, ail, oignon nouveau, shiitake, légumes croquants, lait de coco, bambou, pois mange tout, pousse de soja, chou chinois, sauce piquante, sauce soja, chili, sésame</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Riz basmati</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-21">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Croissant fourré</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Gnocchi au poulet mariné et légumes sautés, sauce napolitaine</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-22">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-23">
+      <closed/>
+    </day>
+    <day date="2021-01-24">
+      <closed/>
+    </day>
+    <day date="2021-01-25">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Cannelloni à la ricotta et épinards &quot;fait maison&quot;, sauce crème</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-26">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Carré de quiche Lorraine &quot;maison&quot;</name>
+          <note>Forme carrée bac gastronorme</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Cœur de laitue mimosa, vinaigrette luxembourgeoise</name>
+          <note>Mimosa = oeufs cuits durs hachés, persil</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-27">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau aux carottes maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Wok au boeuf</name>
+          <note>Shiitaké, bambou, pois mange tout, oignon nouveau, céleri branche, carotte</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Riz basmati</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-28">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Hausmaacher Gromperenzalot mat zwee waarme Wirschtercher</name>
+          <note>Salade de pommes de terre maison, deux saucisses viennoises servies chaudes</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-29">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Petit pain au chocolat</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-30">
+      <closed/>
+    </day>
+    <day date="2021-01-31">
+      <closed/>
+    </day>
+    <day date="2021-02-01">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Streusel</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Lentilles façon thaï, curry de pois chiches</name>
+          <note>Gingembre, citronnelle, menthe, coriandre, pâte de curry, pois chiches = lait de coco, ail, oignons, céleri branche</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Riz basmati</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-02">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Hachis Parmentier</name>
+          <note>Haché de boeuf, fond brun, oignons, persil, noix de muscade, purée pommes de terre, chapelure</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-03">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau au chocolat maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Risotto crémeux à la milanaise</name>
+          <note>Veau mariné, petits légumes, Parmesan</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-04">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Brochette de cevapcici, sauce aux poivrons rouges</name>
+          <note>Viande hachée de boeuf, ail, paprika</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade verte</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-05">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-06">
+      <closed/>
+    </day>
+    <day date="2021-02-07">
+      <closed/>
+    </day>
+    <day date="2021-02-08">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Huit</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Gratin de macaroni au jambon cuit</name>
+          <note>Macaroni, jambon cuit, brunoise de légumes, sauce Béchamel, fromage</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-09">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Wok au poulet, garnitures au choix</name>
+          <note>Noix de cajou, ail, oignon nouveau, shiitake, légumes croquants, lait de coco, bambou, pois mange tout, pousse de soja, chou chinois, sauce piquante, sauce soja, chili, sésame</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Nouilles chinoises sautées</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-10">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau Pumpkin &amp; Spices maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tomate farcie maison à la viande, sauce tomate</name>
+          <note>Haché de viandes mixtes porc et bœuf</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Pommes de terre nature</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-11">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau marbré maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Omelette roulée aux légumes marinés</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-12">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Croissant fourré</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-13">
+      <closed/>
+    </day>
+    <day date="2021-02-14">
+      <closed/>
+    </day>
+    <day date="2021-02-15">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Fettuccine aux scampis et petits légumes</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-16">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau Pumpkin &amp; Spices maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Fondue chinoise</name>
+          <note>Bouillon de légumes. Garniture à part: pousse de soja, céleris, oignons fanes, poireaux, carottes, champignons noirs et viande de volaille</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-17">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Petit pain blanc et complet</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Bifana de dinde marinée grillée</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fritten - pommes frites</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-18">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Pain blanc et complet en tranche</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Yaourt nature, yaourt aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Entrée (16:00 - 20:00)">
+        <meal>
+          <name>Potage AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (16:00 - 20:00)">
+        <meal>
+          <name>Fajitas Tex-Mex con carne</name>
+          <note>Tortilla de blé, salade,  tomate, oignon, guacamole, crème aigre, cheddar, à confectionner par le client</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tartines (fromage, jambon cuit, salami, confiture, miel, Schockelasbotter)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (16:00 - 20:00)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (16:00 - 20:00)">
+        <meal>
+          <name>Féculent AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (16:00 - 20:00)">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-19">
+      <category name="Petit déjeuner">
+        <meal>
+          <name>Baguette blanche et complète</name>
+        </meal>
+        <meal>
+          <name>Flocon d'avoine, muesli</name>
+        </meal>
+        <meal>
+          <name>Fromage blanc nature/aux fruits</name>
+        </meal>
+        <meal>
+          <name>Fromage, jambon cuit, oeuf</name>
+        </meal>
+        <meal>
+          <name>Gâteau marbré maison</name>
+        </meal>
+        <meal>
+          <name>Beurre, miel, confiture, pâte à tartiner au chocolat</name>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+        </meal>
+        <meal>
+          <name>Thé, café, lait, jus d'agrume pressé</name>
+        </meal>
+      </category>
+      <category name="Non-Food (16:00 - 20:00)">
+        <meal>
+          <name>Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>FRUPSTUT</name>
+          <note>Sac en coton.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myCan</name>
+          <note>Gourde en Inox (Stainless Steel) sans BPA, isolant et très durable.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>myKit</name>
+          <note>Couverts réutilisables en Inox dans un étui pratique pour la consommation des plats à emporter.</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (1000 ml)</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Remboursement Consigne ECOBOX (500 ml)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-20">
+      <closed/>
+    </day>
+    <day date="2021-02-21">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

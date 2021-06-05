@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2021-01-25">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tortellini al brodo</name>
+          <note>Bouillon de boeuf  avec des tortellini</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Mixed grill de viandes, jus brun crémé</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Escalope de poulet, Lëtzebuerger Grillwurscht</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Alloo Palak</name>
+          <note>Epinards, pommes de terre, tomates en dés, curry, oignons, piment, ail, cumin, curcuma, coriandre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou-fleur au gratin</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre sablées</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-26">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Minestrone au pistou</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Rôti de veau sauce crème champignons</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Sauté de tofu mariné aux légumes</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céleris, mange tout, courgettes, échalotes</note>
+          <note>Soja et produits à base de soja</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre boulangère</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Pommes de terre, oignons, bouillon</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-27">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe de légumes</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Pain pita ou flaguette farci de viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Omelette végétarienne aux herbes</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Mange tout aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-28">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Héngerbritt</name>
+          <note>Bouillon de volaille fait maison</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Fish and chips, sauce rémoulade maison</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Filet d'aiglefin frit (pâte à frire), quartier de citron à part</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Curry de légumes à l'indienne</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Pois chiches, petits pois, carottes, chou fleur, poireaux, céleris, lait de coco</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Brocolis à l'ail</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre rôties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Quinoa à l'étuvé</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-29">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de tomates</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Emincé de poulet sauté aux noix de cajou</name>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Fruits à coque et produits à base de ces fruits (Noix de cajou)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mollusques et produits à base de mollusques</note>
+          <note>Poissons et produits à base de poissons</note>
+          <note>Soja et produits à base de soja</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Deux rouleaux de printemps végétarien, sauce aigre douce</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Quorn, pousse de soja, bambou, champignons noirs, poireaux, céleri, carotte</note>
+          <note>Soja et produits à base de soja</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Poêlée de soja et légumes asiatiques</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Soja et produits à base de soja</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pâtes chinoises</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-01-30">
+      <closed/>
+    </day>
+    <day date="2021-01-31">
+      <closed/>
+    </day>
+    <day date="2021-02-01">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe de poissons et ses croûtons à la rouille</name>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Mollusques et produits à base de mollusques</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Poissons et produits à base de poissons</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Ragoût de veau Marengo</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Sauce aux oignons, champignons de Paris, tomates, vin blanc, ail et persil</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Linguine à la carbonara au quorn</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Carottes aux oignons</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Linguine au beurre</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Linguine au beurre</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-02">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de céleri</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Zwou Lëtzebuerger Grillwurschte mat Moschterzooss</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Deux saucisses blanches luxembourgeoises, à griller, servies avec de la sauce moutarde à la luxembourgeoise</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Poêlée de légumes aux lentilles et tempeh mariné</name>
+          <note>Carotte, poireau, échalote, ail</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Soja et produits à base de soja</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou romanesco au beurre et persil</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre à la lyonnaise</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Aux oignons</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Collation après-midi (10:00 - 18:30)">
+        <meal>
+          <name>Club sandwich jambon-fromage, compote de fruits maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-03">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Potage de tomates au riz</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Couscous royal</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Merguez,  pilon de poulet,  boulette d'agneau</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Eggs Benedict, 1 bagel</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Omelette roulée, épinards, sauce crème</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes couscous et bouillon de légumes</name>
+          <note>Carottes, céleris en branches, navets, poireaux, oignons, pois chiches, courgettes</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tomate grillée</name>
+          <note>En accompagnement du plat végétarien ou grillade</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Semoule aux épices</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-04">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Buschtawen Zopp</name>
+          <note>Bouillon aux pâtes en forme de lettres</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Emincé de boeuf aux trois poivres</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Les deux choux à la crème d'oignons et persil</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>chou-fleur, chou romanesco</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes amandines</name>
+          <note>Pâte à croquette en forme ronde, panée aux amandes</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-05">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Velouté de volaille</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Dos de cabillaud sauce normande</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Crustacés et produits à base de crustacés</note>
+          <note>Fumet de poisson, crème, oignons, fines herbes, jus de citron</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>Anhydride sulfureux et sulfites en concentrations de plus de 10mg/kg ou 10mg/litre</note>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>Moutarde et produits à base de moutarde</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Nouilles Soba aux légumes sautés, tofu fumé et cacahuètes</name>
+          <note>Fruits à coque et produits à base de ces fruits</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Pois mange tout, poireau, chou blanc, carotte, oignon, tofu fumé mariné, roulé d'omelette</note>
+          <note>Soja et produits à base de soja</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Epinards en branches au beurre noisette</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes vapeur</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-06">
+      <closed/>
+    </day>
+    <day date="2021-02-07">
+      <closed/>
+    </day>
+    <day date="2021-02-08">
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Penne all'arrabbiata</name>
+          <note>Sauce tomate pimentée</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Chou-fleur à la crème, échalotes et persil</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Grompere Purée</name>
+          <note>Purée de pommes de terre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-09">
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée,  sauce Tzatziki =  yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures =  choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Pita aux légumes sautés, sauce Tzatziki</name>
+          <note>Choux blancs, poireaux, céleris, carottes, pois chiches  Sauce Tzatziki - yaourt, huile d'olive, vinaigre blanc, jus de citron, ail, menthe, aneth</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-10">
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Cordon bleu de dinde pané, sauce crème champignons</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Omelette végétarienne</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-11">
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Paschtéit</name>
+          <note>Bouchée à la Reine</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Paschtéit  mat Quorn a frëschem Geméis</name>
+          <note>Bouchée au quorn et légumes frais</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Petits pois, beurre et ciboulette</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-12">
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Curry de pommes de terre et légumes au lait de coco</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-13">
+      <closed/>
+    </day>
+    <day date="2021-02-14">
+      <closed/>
+    </day>
+    <day date="2021-02-15">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Potage aux légumes de saison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Paschtéit</name>
+          <note>Bouchée à la Reine</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Bouchée végétarienne au quorn</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Petits pois aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-16">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Minestrone</name>
+          <note>Potage à base de tomates, céleri, chou, haricots blancs et pâtes</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Filet de loup de mer, sauce Dugléré</name>
+          <note>Dugléré = sauce poissons, dés de tomates, jus de citron, persil</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Fajitas aux légumes mixtes, sauce salsa maison</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Brocolis au beurre et au persil</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre persillées</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-17">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Bouillon de boeuf thaï</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Curry au duo de lentilles, mangue et coco</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Poêlée de légumes aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes au four, crème aigre</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-18">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de carottes</name>
+          <note>Crème de carottes</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Steak haché de veau, sauce crème champignons de Paris</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Tortilla espagnole végétarienne aux pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou-fleur persillade</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Tagliatelle au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-19">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Potage Andalou</name>
+          <note>Tomates, poivrons rouges, oignons rouges, ail, bouillon de légumes, blanc de poireaux, céleri branche</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Brochette de poulet et bacon, jus corsé aux herbes</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Mezzé variés</name>
+          <note>Pain pita Falafel, taboulé, houmous, baba ganousch</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Carottes aux oignons</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Penne au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-20">
+      <closed/>
+    </day>
+    <day date="2021-02-21">
+      <closed/>
+    </day>
+    <day date="2021-02-22">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Potage au potiron</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Hausmaacher Boulette mat Tomaten Zooss</name>
+          <note>Boulettes de viande maison, sauce tomate</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Duo de courgette et tomate farci au ragoût de tofu</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts à l'ail</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Penne au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-23">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de courgettes au parmesan</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Emincé de dinde au curry et lait de coco</name>
+          <note>Oignons, ail, bouillon de poule, lait de coco, lié</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Bouchée forestière au quorn</name>
+          <note>Bouillon de légumes lié, crème, mélange de champignons des bois, dés de quorn.</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou romanesco au beurre et persil</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Riz basmati</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-24">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe à l'oignon et croûtons aux herbes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Kebab maison, sauce Tzatziki</name>
+          <note>Pain pita ou flaguette farci de viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés,</note>
+          <note>flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Feuille de brick farcie aux jeunes légumes et pois chiches, concassé de tomates</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Légumes garniture pour kebab</name>
+          <note>Choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Poêlée de légumes aux échalotes</name>
+          <note>En accompagnement de la grillade ou du plat végétarien</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-25">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe chinoise au poulet</name>
+          <note>Blanc de poulet, germe de soja, champignons, vermicelle, oignons, petit pois, carottes, céleri, blanc de poireau, curry, sauce soja</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Escalope de veau à la viennoise, quartier de citron</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Veggie burger</name>
+          <note>Hamburger végétarien, petit pain, boulettes de lentilles, concombre, tomate, sauce Tzatziki</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Flan aux épinards</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes de terre rôties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-26">
+      <category name="Entrée (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Velouté de brocoli</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique (10:00 - 18:30)">
+        <meal>
+          <name>Filet de saumon poché, sauce vin blanc</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Grand bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien (10:00 - 18:30)">
+        <meal>
+          <name>Hachis Parmentier aux légumes</name>
+          <note>Poireaux , carottes courgettes</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes (10:00 - 18:30)">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fondue de poireaux aux oignons</name>
+          <note>Poireaux  et oignons cuits au beurre à feu doux</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents (10:00 - 18:30)">
+        <meal>
+          <name>Pommes persillées</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert (10:00 - 18:30)">
+        <meal>
+          <name>Fruits frais découpés (3 variétés)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes (10:00 - 18:30)">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2021-02-27">
+      <closed/>
+    </day>
+    <day date="2021-02-28">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>
+
+<!-- Theme day: Menu St.Valentin [restaurant=173] -->

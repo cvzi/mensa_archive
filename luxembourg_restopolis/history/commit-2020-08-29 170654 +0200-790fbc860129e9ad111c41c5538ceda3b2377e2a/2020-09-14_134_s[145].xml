@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-09-14">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Escalope de saumon poché, sauce hollandaise</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Tagliatelle au beurre</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-15">
+      <closed/>
+    </day>
+    <day date="2020-09-16">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Fajitas Tex-Mex con carne</name>
+          <note>Tortilla de blé, salade,  tomate, oignon, guacamole, crème aigre, cheddar, à confectionner par le client</note>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-17">
+      <category name="Entrée">
+        <meal>
+          <name>Potage AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Bifana de boeuf piquante aux poivrons et oignons</name>
+        </meal>
+        <meal>
+          <name>Plat AntiGaspi</name>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Salad'bar</name>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Fritten - pommes frites</name>
+        </meal>
+        <meal>
+          <name>Variation de pain blanc et pain complet</name>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Corbeille de fruits de saison</name>
+        </meal>
+        <meal>
+          <name>Dessert AntiGaspi</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-09-18">
+      <closed/>
+    </day>
+    <day date="2020-09-19">
+      <closed/>
+    </day>
+    <day date="2020-09-20">
+      <closed/>
+    </day>
+    <day date="2020-09-21">
+      <closed/>
+    </day>
+    <day date="2020-09-22">
+      <closed/>
+    </day>
+    <day date="2020-09-23">
+      <closed/>
+    </day>
+    <day date="2020-09-24">
+      <closed/>
+    </day>
+    <day date="2020-09-25">
+      <closed/>
+    </day>
+    <day date="2020-09-26">
+      <closed/>
+    </day>
+    <day date="2020-09-27">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

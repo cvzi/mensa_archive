@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cdn.jsdelivr.net/npm/om-style@1.0.0/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-12-14">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Ierzebulli mat Speck</name>
+          <note>Potage de pois cassés à la luxembourgeoise, lard fumé</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Escalope de poulet, sauce au curry</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Lasagne végétarienne</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Chou-fleur à la crème, persil et oignons</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Fettuccine au beurre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Pudding vanille et biscuit cuillère</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-15">
+      <closed/>
+    </day>
+    <day date="2020-12-16">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Crème de carottes et gingembre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Feuilleté aux poissons et fruits de mer, sauce bisque</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Galette de haricots rouges, concassé de tomates</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Flan aux poireaux</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Riz pilaf</name>
+          <note>Riz cuit dans un bouillon avec des oignons revenus au beurre</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Assiette du pâtissier</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-17">
+      <closed/>
+    </day>
+    <day date="2020-12-18">
+      <category name="Entrée">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Soupe à l'oignon, toast au fromage</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Protidique">
+        <meal>
+          <name>Wäinzoossiss mat Moschterzooss</name>
+          <note>Saucisse au vin, sauce à la moutarde luxembourgeoise</note>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Plat principal Végétarien">
+        <meal>
+          <name>Bouchée au quorn et légumes frais</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Légumes">
+        <meal>
+          <name>Bol de salades et crudités assorties</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Haricots verts aux échalotes</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Féculents">
+        <meal>
+          <name>Pommes de terre wedges maison</name>
+          <note>Quartiers de pommes de terre préparés au four</note>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Purée de pommes de terre</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Dessert">
+        <meal>
+          <name>Fromage blanc</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+        <meal>
+          <name>Gâteau St. Honoré</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Salade de fruits frais</name>
+          <note>produit constant</note>
+        </meal>
+        <meal>
+          <name>Yaourt</name>
+          <note>Lait et produits à base de lait (y compris le lactose)</note>
+          <note>bio</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Sans allergènes">
+        <meal>
+          <name>Repas sans allergènes (sur commande)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+      <category name="Laitages">
+        <meal>
+          <name>Lait Luxlait 0,25 l Tétra Pack (gratuit)</name>
+          <note>Programme &quot;Schoulmëllech&quot;</note>
+          <note>produit constant</note>
+          <note>produit culinaire du terroir</note>
+        </meal>
+      </category>
+      <category name="Non-Food">
+        <meal>
+          <name>eduMask (gratuit)</name>
+          <note>produit constant</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-19">
+      <closed/>
+    </day>
+    <day date="2020-12-20">
+      <closed/>
+    </day>
+    <day date="2020-12-21">
+      <closed/>
+    </day>
+    <day date="2020-12-22">
+      <closed/>
+    </day>
+    <day date="2020-12-23">
+      <closed/>
+    </day>
+    <day date="2020-12-24">
+      <closed/>
+    </day>
+    <day date="2020-12-25">
+      <closed/>
+    </day>
+    <day date="2020-12-26">
+      <closed/>
+    </day>
+    <day date="2020-12-27">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>

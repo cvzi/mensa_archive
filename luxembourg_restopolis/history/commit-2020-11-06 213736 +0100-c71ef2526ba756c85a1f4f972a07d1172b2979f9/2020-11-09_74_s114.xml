@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/basic.css" type="text/css"?>
+<?xml-stylesheet href="https://cvzi.github.io/om-style/latest/lightgreen.css" type="text/css"?>
+<openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <day date="2020-11-02">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Penne all'arrabbiata au chorizo</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautées, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croûtons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+        <meal>
+          <name>Sandwich Chicken Teriyaki</name>
+          <note>Escalope de poulet marinée avec de la sauce Teriyaki, rôtie et servie sur un sandwich garni avec de la salade, tomate et concombre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-03">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Spirelli au boeuf épicé</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Cheeseburger</name>
+          <note>Petit pain flaguette ou pain spécial avec hamburger Boeuf et tranche d'Emmental, tomates, salade, ketchup.</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautées, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croûtons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-04">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Spaghetti, crème pesto, tomates séchées et pignons de pin</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Ciabatta à l'escalopine de dinde marinée, fromage blanc ail et fines herbes</name>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautées, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croûtons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-05">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Lasagne bolognaise &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Pain pita garni au cevapcici, crème épaisse à l'ail et au persil</name>
+          <note>Viande boeuf</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautées, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croûtons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-06">
+      <category name="A emporter Menu à emporter">
+        <meal>
+          <name>Tortiglioni prosciutto et funghi</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter">
+        <meal>
+          <name>Fish fingers de poissons, sauce tartare</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade mexicaine</name>
+          <note>Mélange de salades, filet de dinde épicé, riz, haricots rouges, quartiers de tomate, maïs, oignons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade paysanne aux lardons</name>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade frisée, lardons, pommes de terre sautées, oeuf cuit dur, tomates coupées en petits dés, oignons rouges en lamelles, croûtons de pain, ail émincé, persil haché</note>
+        </meal>
+        <meal>
+          <name>Salade Wellness</name>
+          <note>Céleri et produits à base de céleri</note>
+          <note>Céréales contenant du gluten et produits à base de ces céréales (Blé)</note>
+          <note>Oeufs et produits à base d‘oeufs</note>
+          <note>Salade mélangée, céleris en branches, concombre, carottes râpées, tomates, oeuf cuit dur, haricots verts, cœur de palmier, oignons rouges, persil plat frais et haché</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-07">
+      <closed/>
+    </day>
+    <day date="2020-11-08">
+      <closed/>
+    </day>
+    <day date="2020-11-09">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Penne all'arrabbiata au chorizo</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+        <meal>
+          <name>Sandwich Chicken Teriyaki</name>
+          <note>Escalope de poulet marinée avec de la sauce Teriyaki, rôtie et servie sur un sandwich garni avec de la salade, tomate et concombre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-10">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Spirelli au boeuf épicé</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Cheeseburger</name>
+          <note>Petit pain flaguette ou pain spécial avec hamburger Boeuf et tranche d'Emmental, tomates, salade, ketchup.</note>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-11">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Spaghetti, crème pesto, tomates séchées et pignons de pin</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Loempia maison, sauce chili douce</name>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-12">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Pasta asciutta</name>
+          <note>Haché de boeuf et porc, pancetta, oignons, ail, carotte, céleri, tomate pelée, concentré de tomates, laurier, persil, origan, huile d'olive, crudités</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Pain pita garni au cevapcici, crème épaisse à l'ail et au persil</name>
+          <note>Viande boeuf</note>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-13">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Tortiglioni prosciutto et funghi</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Fish fingers de poissons, sauce tartare</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade aux mezzé variés</name>
+          <note>Mélange de salades, falafel, taboulé aux petits légumes, houmous, baba ganousch, pain pita</note>
+        </meal>
+        <meal>
+          <name>Salade nordique</name>
+          <note>Mélange de salades, saumon fumé, truite fumée, tomate aux crevettes roses, oignon, aneth, œuf, citron, boulgour aux petits légumes, salade de concombres, sauce cocktail</note>
+        </meal>
+        <meal>
+          <name>Salade Poke Bowl Beef Teriyaki</name>
+          <note>Mélange de salades, avocat, concombre, tomate, oignon, riz, Teriyaki = marinade au gingembre, sauce de soja, ail, huile de sésame</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-14">
+      <closed/>
+    </day>
+    <day date="2020-11-15">
+      <closed/>
+    </day>
+    <day date="2020-11-16">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Penne all'arrabbiata</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Sandwich aux mini boulettes, sauce tomate</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-17">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Spaghetti bolognaise</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Dürüm farci à la dinde, sauce pita</name>
+          <note>Galette farcie de dinde, choux blancs marinés, tomates, oignons, huile d'olives,</note>
+        </meal>
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-18">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Tortellini panna e prosciutto</name>
+          <note>Produit du terroir</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Chicken Burger</name>
+          <note>Viande de poulet, petit pain spécial « Hamburger », laitue, rondelles de tomate, rondelles de concombre</note>
+        </meal>
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-19">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Mafaldine aux scampis</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Fajitas de boeuf maison</name>
+          <note>Tortilla farcie d'un haché de boeuf cuit en sauce, haricots rouges, oignons, ail, cumin, coriandre, cheddar, à part: guacamole maison, crème épaisse</note>
+        </meal>
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-20">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Trivelli al manzo</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Salade au makis végétariens</name>
+          <note>Mélange de salades, concombre, radis, tomate cerise, sauce soja et chili</note>
+        </meal>
+        <meal>
+          <name>Salade de quinoa aux deux saumons</name>
+          <note>Mélange de salades, saumon frais mariné cuit, saumon fumé,  concombre, carotte râpée, céleri branche, radis rouge, vinaigrette à l'aneth</note>
+        </meal>
+        <meal>
+          <name>Salade kebab, sauce Tzatziki, pain pita</name>
+          <note>Viande de veau marinée, sauce Tzatziki = yaourt, fromage blanc, concombre, ail, menthe, aneth, huile d'olive, garnitures = choux blancs râpés, tomates rondelles, mélange de salades vertes, oignons rouges émincés, flocons de chili</note>
+        </meal>
+        <meal>
+          <name>Sandwich Wiener Schnitzel, sauce rémoulade</name>
+          <note>Garniture salade et tomate</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-21">
+      <closed/>
+    </day>
+    <day date="2020-11-22">
+      <closed/>
+    </day>
+    <day date="2020-11-23">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Spirelli Alfredo aux lardinettes de volaille, persil plat et poivre noir</name>
+          <note>Alfredo = Beurre, crème, sel, poivre, muscade, parmesan râpé, persil plat</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Aiguillettes de poulet panées au panko, sauce tartare maison</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-24">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Spaghetti sauce Carbonara</name>
+          <note>Lardons fumés, dés de jambon cuit, crême, parmesan râpé, poivre, sel</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+        </meal>
+        <meal>
+          <name>Sandwich Grillwurscht</name>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-25">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Fettuccine au poulet piquant et noix de cajou</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Burrito mexicain</name>
+          <note>Tortilla farcie de viande de boeuf , haricots rouges, tomates, épices, piment, salade verte</note>
+        </meal>
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-26">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Gratin de macaroni au jambon cuit</name>
+          <note>Macaroni, jambon cuit, brunoise de légumes, sauce Béchamel, fromage</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+        </meal>
+        <meal>
+          <name>Sandwich Chicken Teriyaki</name>
+          <note>Escalope de poulet marinée avec de la sauce Teriyaki, rôtie et servie sur un sandwich garni avec de la salade, tomate et concombre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-27">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Papardelle aglio, olio e peperoncino</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Salade au quinoa rouge et tofu fumé</name>
+          <note>Mélange de salades, chou blanc, carotte, oignon nouveau, sésame, vinaigrette au soja et citron vert</note>
+        </meal>
+        <meal>
+          <name>Salade aux cevapcici</name>
+          <note>Mélange de salades, tomate, concombre, oignon rouge, viande de boeuf, ail, oignons, paprika, persil, sauce aux poivrons rouges</note>
+        </meal>
+        <meal>
+          <name>Salade océane</name>
+          <note>Mélange de salades vertes, scampi, crevettes, thon, saumon fumé</note>
+        </meal>
+        <meal>
+          <name>Spicy Fishburger</name>
+          <note>Roquette, concombre, chili, gingembre</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-11-28">
+      <closed/>
+    </day>
+    <day date="2020-11-29">
+      <closed/>
+    </day>
+    <day date="2020-11-30">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Pasta asciutta</name>
+          <note>Haché de boeuf et porc, pancetta, oignons, ail, carotte, céleri, tomate pelée, concentré de tomates, laurier, persil, origan, huile d'olive, crudités</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Bacon Burger</name>
+          <note>Viande de boeuf, petit pain spécial « Hamburger » ou pain Flaguette 100g, lard grillé, laitue, rondelle de tomate, rondelle de cornichon</note>
+        </meal>
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-01">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Orecchiette alla crudaiola</name>
+          <note>Tomates cerise coupées, ail, basilic, ricotta, huile d'olive extra vierge, roquette</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Chick'n Box, pain flaguette</name>
+          <note>Wings, Legs, Fingers</note>
+        </meal>
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-02">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Cannelloni à la ricotta et épinards &quot;fait maison&quot;</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Flaguette au kebab de veau et Tzatziki</name>
+          <note>Tzatziki = yaourt, ail, concombres râpées, menthe, coriandre, huile d'olive, jus de citron</note>
+        </meal>
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-03">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Penne tomate salsiccia</name>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Nuggets de poulet maison, sauce chili</name>
+          <note>Beignets de blanc de poulet</note>
+        </meal>
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-04">
+      <category name="A emporter Menu à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Fusilli all'Amatriciana</name>
+          <note>Sauce tomate, oignons et lardons</note>
+        </meal>
+      </category>
+      <category name="A emporter Snack à emporter (11:30 - 14:20)">
+        <meal>
+          <name>Fish fingers de poissons, sauce rémoulade</name>
+          <note>Petit pain flaguette, salade et tomate</note>
+        </meal>
+        <meal>
+          <name>Salade aux brochettes de poulet et bacon</name>
+          <note>Mélange de salades, tomate, concombre, oeuf cuit dur, cornichon, sauce chili</note>
+        </meal>
+        <meal>
+          <name>Salade chinoise aux crevettes</name>
+          <note>Salade scarole, pâtes chinoises, bambou, lentins de chêne, sauce soja, graines de sésame</note>
+        </meal>
+        <meal>
+          <name>Salade composée au houmous</name>
+          <note>Mélange de salades, salade roquette, tomate cerise, concombre, poivron mixte, amandes entières, Grissini</note>
+        </meal>
+      </category>
+    </day>
+    <day date="2020-12-05">
+      <closed/>
+    </day>
+    <day date="2020-12-06">
+      <closed/>
+    </day>
+  </canteen>
+</openmensa>
